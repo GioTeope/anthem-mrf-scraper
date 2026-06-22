@@ -1,0 +1,1339 @@
+2026-06-22 09:02:51,196  INFO      Opening Anthem MRF search page…
+2026-06-22 09:02:59,293  INFO      Selecting 'Search by Name'…
+2026-06-22 09:03:01,340  INFO      Typing 'Georgia'…
+2026-06-22 09:03:04,283  INFO      Clicking Search…
+2026-06-22 09:03:09,442  INFO      ── Result page 1 ──
+2026-06-22 09:03:15,334  INFO        Rows found: 102
+2026-06-22 09:03:15,442  INFO      [1/102] georgia hispanic chamber of commerce
+2026-06-22 09:03:45,448  ERROR       Error on row 0: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("text=/Georgia/i").filter(has=locator("..")).first
+    - locator resolved to <div tabindex="0" class="card card-body" onclick="getText(this)">georgia hispanic chamber of commerce</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    39 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-06-22 09:03:47,067  ERROR       Error on row 1: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,089  ERROR       Error on row 2: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,104  ERROR       Error on row 3: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,115  ERROR       Error on row 4: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,121  ERROR       Error on row 5: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,131  ERROR       Error on row 6: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,137  ERROR       Error on row 7: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,146  ERROR       Error on row 8: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,151  ERROR       Error on row 9: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,156  ERROR       Error on row 10: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,162  ERROR       Error on row 11: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,167  ERROR       Error on row 12: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,173  ERROR       Error on row 13: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,179  ERROR       Error on row 14: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,184  ERROR       Error on row 15: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,188  ERROR       Error on row 16: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,196  ERROR       Error on row 17: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,201  ERROR       Error on row 18: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,207  ERROR       Error on row 19: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,213  ERROR       Error on row 20: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,218  ERROR       Error on row 21: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,223  ERROR       Error on row 22: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,230  ERROR       Error on row 23: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,235  ERROR       Error on row 24: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,239  ERROR       Error on row 25: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,246  ERROR       Error on row 26: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,250  ERROR       Error on row 27: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,255  ERROR       Error on row 28: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,262  ERROR       Error on row 29: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,266  ERROR       Error on row 30: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,279  ERROR       Error on row 31: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,285  ERROR       Error on row 32: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,290  ERROR       Error on row 33: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,296  ERROR       Error on row 34: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,301  ERROR       Error on row 35: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,306  ERROR       Error on row 36: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,312  ERROR       Error on row 37: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,317  ERROR       Error on row 38: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,321  ERROR       Error on row 39: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,327  ERROR       Error on row 40: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,332  ERROR       Error on row 41: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,336  ERROR       Error on row 42: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,340  ERROR       Error on row 43: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,347  ERROR       Error on row 44: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,351  ERROR       Error on row 45: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,355  ERROR       Error on row 46: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,362  ERROR       Error on row 47: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,367  ERROR       Error on row 48: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,372  ERROR       Error on row 49: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,379  ERROR       Error on row 50: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,384  ERROR       Error on row 51: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,388  ERROR       Error on row 52: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,395  ERROR       Error on row 53: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,399  ERROR       Error on row 54: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,403  ERROR       Error on row 55: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,407  ERROR       Error on row 56: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,413  ERROR       Error on row 57: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,418  ERROR       Error on row 58: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,422  ERROR       Error on row 59: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,429  ERROR       Error on row 60: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,433  ERROR       Error on row 61: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,437  ERROR       Error on row 62: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,444  ERROR       Error on row 63: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,449  ERROR       Error on row 64: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,454  ERROR       Error on row 65: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,461  ERROR       Error on row 66: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,465  ERROR       Error on row 67: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,468  ERROR       Error on row 68: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,477  ERROR       Error on row 69: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,482  ERROR       Error on row 70: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,488  ERROR       Error on row 71: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,494  ERROR       Error on row 72: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,498  ERROR       Error on row 73: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,502  ERROR       Error on row 74: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,507  ERROR       Error on row 75: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,514  ERROR       Error on row 76: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,522  ERROR       Error on row 77: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,532  ERROR       Error on row 78: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,536  ERROR       Error on row 79: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,545  ERROR       Error on row 80: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,550  ERROR       Error on row 81: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,554  ERROR       Error on row 82: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,560  ERROR       Error on row 83: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,564  ERROR       Error on row 84: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,570  ERROR       Error on row 85: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,578  ERROR       Error on row 86: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,584  ERROR       Error on row 87: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,588  ERROR       Error on row 88: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,596  ERROR       Error on row 89: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,604  ERROR       Error on row 90: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,613  ERROR       Error on row 91: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,618  ERROR       Error on row 92: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,623  ERROR       Error on row 93: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,631  ERROR       Error on row 94: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,635  ERROR       Error on row 95: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,640  ERROR       Error on row 96: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,647  ERROR       Error on row 97: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,651  ERROR       Error on row 98: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,655  ERROR       Error on row 99: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,662  ERROR       Error on row 100: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,666  ERROR       Error on row 101: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:03:47,670  INFO      Pagination not found — done collecting.
+2026-06-22 09:03:48,278  INFO      
+Total files to download: 0
+2026-06-22 09:03:48,278  INFO      
+==================================================
+2026-06-22 09:03:48,279  INFO      DONE  ✓ 0 downloaded  ⏭ 0 skipped  ✗ 0 failed
+2026-06-22 09:03:48,279  INFO      Files saved under: C:\Users\v-teopeinigo\OneDrive - Microsoft\Documents\Automation\UI Automation\Georgia
+2026-06-22 09:03:55,611  INFO      Opening Anthem MRF search page…
+2026-06-22 09:04:03,483  INFO      Selecting 'Search by Name'…
+2026-06-22 09:04:05,540  INFO      Typing 'Georgia'…
+2026-06-22 09:04:08,418  INFO      Clicking Search…
+2026-06-22 09:04:13,571  INFO      ── Result page 1 ──
+2026-06-22 09:04:13,749  INFO        Rows found: 102
+2026-06-22 09:04:13,881  INFO      [1/102] georgia hispanic chamber of commerce
+2026-06-22 09:04:17,897  ERROR       Error on row 0: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("text=/Georgia/i").filter(has=locator("..")).first
+    - locator resolved to <div tabindex="0" class="card card-body" onclick="getText(this)">georgia hispanic chamber of commerce</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    7 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 500ms
+
+2026-06-22 09:04:17,904  ERROR       Error on row 1: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,944  ERROR       Error on row 2: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,951  ERROR       Error on row 3: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,956  ERROR       Error on row 4: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,964  ERROR       Error on row 5: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,968  ERROR       Error on row 6: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,970  ERROR       Error on row 7: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,975  ERROR       Error on row 8: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,978  ERROR       Error on row 9: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,981  ERROR       Error on row 10: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,984  ERROR       Error on row 11: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,986  ERROR       Error on row 12: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,989  ERROR       Error on row 13: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,993  ERROR       Error on row 14: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,995  ERROR       Error on row 15: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:17,998  ERROR       Error on row 16: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,000  ERROR       Error on row 17: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,002  ERROR       Error on row 18: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,004  ERROR       Error on row 19: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,008  ERROR       Error on row 20: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,011  ERROR       Error on row 21: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,013  ERROR       Error on row 22: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,015  ERROR       Error on row 23: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,017  ERROR       Error on row 24: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,020  ERROR       Error on row 25: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,025  ERROR       Error on row 26: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,028  ERROR       Error on row 27: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,031  ERROR       Error on row 28: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,033  ERROR       Error on row 29: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,035  ERROR       Error on row 30: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,042  ERROR       Error on row 31: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,045  ERROR       Error on row 32: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,047  ERROR       Error on row 33: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,049  ERROR       Error on row 34: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,051  ERROR       Error on row 35: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,053  ERROR       Error on row 36: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,058  ERROR       Error on row 37: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,060  ERROR       Error on row 38: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,063  ERROR       Error on row 39: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,065  ERROR       Error on row 40: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,067  ERROR       Error on row 41: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,069  ERROR       Error on row 42: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,071  ERROR       Error on row 43: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,074  ERROR       Error on row 44: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,077  ERROR       Error on row 45: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,080  ERROR       Error on row 46: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,082  ERROR       Error on row 47: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,084  ERROR       Error on row 48: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,086  ERROR       Error on row 49: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,089  ERROR       Error on row 50: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,093  ERROR       Error on row 51: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,096  ERROR       Error on row 52: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,097  ERROR       Error on row 53: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,099  ERROR       Error on row 54: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,101  ERROR       Error on row 55: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,103  ERROR       Error on row 56: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,106  ERROR       Error on row 57: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,109  ERROR       Error on row 58: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,111  ERROR       Error on row 59: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,113  ERROR       Error on row 60: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,115  ERROR       Error on row 61: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,117  ERROR       Error on row 62: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,119  ERROR       Error on row 63: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,121  ERROR       Error on row 64: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,125  ERROR       Error on row 65: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,128  ERROR       Error on row 66: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,130  ERROR       Error on row 67: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,132  ERROR       Error on row 68: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,134  ERROR       Error on row 69: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,136  ERROR       Error on row 70: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,138  ERROR       Error on row 71: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,142  ERROR       Error on row 72: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,145  ERROR       Error on row 73: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,147  ERROR       Error on row 74: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,148  ERROR       Error on row 75: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,150  ERROR       Error on row 76: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,152  ERROR       Error on row 77: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,154  ERROR       Error on row 78: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,157  ERROR       Error on row 79: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,161  ERROR       Error on row 80: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,163  ERROR       Error on row 81: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,164  ERROR       Error on row 82: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,166  ERROR       Error on row 83: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,168  ERROR       Error on row 84: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,170  ERROR       Error on row 85: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,172  ERROR       Error on row 86: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,175  ERROR       Error on row 87: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,178  ERROR       Error on row 88: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,180  ERROR       Error on row 89: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,182  ERROR       Error on row 90: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,184  ERROR       Error on row 91: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,186  ERROR       Error on row 92: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,189  ERROR       Error on row 93: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,192  ERROR       Error on row 94: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,194  ERROR       Error on row 95: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,196  ERROR       Error on row 96: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,198  ERROR       Error on row 97: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,200  ERROR       Error on row 98: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,202  ERROR       Error on row 99: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,203  ERROR       Error on row 100: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,205  ERROR       Error on row 101: Locator.inner_text: Target page, context or browser has been closed
+2026-06-22 09:04:18,208  INFO      Pagination not found — done collecting.
+2026-06-22 09:04:18,649  INFO      
+Total files to download: 0
+2026-06-22 09:04:18,649  INFO      
+==================================================
+2026-06-22 09:04:18,650  INFO      DONE  ✓ 0 downloaded  ⏭ 0 skipped  ✗ 0 failed
+2026-06-22 09:04:18,650  INFO      Files saved under: C:\Users\v-teopeinigo\OneDrive - Microsoft\Documents\Automation\UI Automation\Georgia
+2026-06-22 09:18:03,138  INFO      Collected 102 suggestion(s) for 'Georgia'
+2026-06-22 09:18:03,138  INFO        - Georgia A Hall Behavior C
+2026-06-22 09:18:03,138  INFO        - Georgia Accounting Services Llc
+2026-06-22 09:18:03,139  INFO        - Georgia Air Specialists
+2026-06-22 09:18:03,139  INFO        - Georgia Arms Inc.
+2026-06-22 09:18:03,139  INFO        - Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:18:03,139  INFO        - Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 09:18:03,139  INFO        - Georgia Association Of Broadcasters
+2026-06-22 09:18:03,140  INFO        - Georgia Association Of Educators
+2026-06-22 09:18:03,140  INFO        - Georgia Asylum And Immigration Network
+2026-06-22 09:18:03,140  INFO        - Georgia Auto Law
+2026-06-22 09:18:03,140  INFO        - Georgia Automobile Dealers Association
+2026-06-22 09:18:03,141  INFO        - Georgia Bankers Association Insurance Trust
+2026-06-22 09:18:03,141  INFO        - Georgia Baptist Childrens Home
+2026-06-22 09:18:03,141  INFO        - Georgia Baptist Convention
+2026-06-22 09:18:03,141  INFO        - Georgia Center For Child Advocacy
+2026-06-22 09:18:03,141  INFO        - Georgia Center For Opportunity
+2026-06-22 09:18:03,141  INFO        - Georgia Chamber Of Commerce
+2026-06-22 09:18:03,141  INFO        - Georgia Climate Control Inc
+2026-06-22 09:18:03,141  INFO        - Georgia Coaltion Against Domestic Violence
+2026-06-22 09:18:03,142  INFO        - Georgia Cold Storage Co
+2026-06-22 09:18:03,142  INFO        - Georgia College & State Univ
+2026-06-22 09:18:03,142  INFO        - Georgia Commercial Construction,Inc.
+2026-06-22 09:18:03,142  INFO        - Georgia Computer Inc
+2026-06-22 09:18:03,142  INFO        - Georgia Council For International Visitors
+2026-06-22 09:18:03,142  INFO        - Georgia Crop Improvement
+2026-06-22 09:18:03,142  INFO        - Georgia Dental Association
+2026-06-22 09:18:03,143  INFO        - Georgia Economic Developers Association
+2026-06-22 09:18:03,143  INFO        - Georgia Electric Associates Inc
+2026-06-22 09:18:03,143  INFO        - Georgia Empire Contracting Llc
+2026-06-22 09:18:03,143  INFO        - Georgia Exposition Manufacturing Corporation
+2026-06-22 09:18:03,143  INFO        - Georgia Family Connection Partnership Inc
+2026-06-22 09:18:03,143  INFO        - Georgia Farm Bureau
+2026-06-22 09:18:03,143  INFO        - Georgia Firefighters Burn
+2026-06-22 09:18:03,143  INFO        - Georgia Forestry Association Inc
+2026-06-22 09:18:03,144  INFO        - Georgia Gunite & Pool Co.
+2026-06-22 09:18:03,144  INFO        - Georgia Gwinnett College
+2026-06-22 09:18:03,145  INFO        - Georgia Haddad Dds Inc
+2026-06-22 09:18:03,145  INFO        - Georgia Hap Administrators,Inc
+2026-06-22 09:18:03,146  INFO        - Georgia Hardwoods Inc
+2026-06-22 09:18:03,147  INFO        - Georgia Health Initiative
+2026-06-22 09:18:03,148  INFO        - Georgia Heart Physicians
+2026-06-22 09:18:03,148  INFO        - Georgia Heirs Property
+2026-06-22 09:18:03,148  INFO        - Georgia Hi-Tech Fabricators Inc
+2026-06-22 09:18:03,148  INFO        - Georgia High School Association
+2026-06-22 09:18:03,148  INFO        - Georgia Highlands College
+2026-06-22 09:18:03,148  INFO        - Georgia Highlands Medical Services Inc
+2026-06-22 09:18:03,148  INFO        - Georgia Highway Contractors Association
+2026-06-22 09:18:03,148  INFO        - Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:18:03,148  INFO        - Georgia Hispanic Chamber Of Commerce Georgia Climate Control Inc Georgia Premier Sonograph Georgia Machine Works, Inc Georgia Independent School Association Georgia Asylum And Immigration Network Georgia Mountain Food Bank Georgia Gwinnett College Georgia Haddad Dds Inc Georgia Mountain Endocrinology Georgia Oral & Facial Sur Georgia Arrhythmia Consultants, Llc Georgia Title Source, Llc Georgia Legacy Law Group Llc Georgia Interfaith Power & Light Inc Georgia Mills Inc Georgia Timber Llc Georgia Stage Llc Georgina Sullos Georgia Tapert Design Llc Georgia Title Pawn Llc Georgia Heirs Property Georgia Nurses Association Georgia Highway Contractors Association Georgia Pharmacy Association Georgia Motor Trucking Association Georgia Forestry Association Inc Georgia Optometric Associ Georgia Baptist Convention Georgia Historical Society Georgia Baptist Childrens Home Georgia Poultry Federation Georgia Hospital Association Georgia Crop Improvement Georgia Dental Association Georgia Tech Alumni Association Inc Georgia Farm Bureau Georgia United Credit Union Georgia Association Of Broadcasters Georgia Council For International Visitors Georgia Neurosurgical Institute Pc Georgia Highlands College Georgia Association Of Educators Georgia Automobile Dealers Association Georgia-Florida Harvestore, Inc. Georgia Cold Storage Co Georgia Economic Developers Association Georgia Highlands Medical Services Inc Georgia Surveyors Exchange Company Inc Georgia Commercial Construction,Inc. Georgia Arms Inc. Georgia Firefighters Burn Georgia Chamber Of Commerce Georgia Hi-Tech Fabricators Inc Georgia Rehabilitation Institute, Inc Georgia Exposition Manufacturing Corporation Georgia Neurological Surgery Georgia Center For Child Advocacy Georgia Hardwoods Inc Georgia Coaltion Against Domestic Violence Georgia Pump Inc Georgia Family Connection Partnership Inc Georgia Research Alliance Georgia Center For Opportunity Georgia Theatre Company Georgia Partnership For Excellence In Education Georgia Lottery Corporation Georgia Mountain Hospice Georgia Computer Inc Georgia Nephrology Georgia Bankers Association Insurance Trust Georgia Storefronts Inc Georgia River Network Georgia Senior Living Ass Georgia Health Initiative Georgia Hap Administrators,Inc Georgia Gunite & Pool Co. Georgia Heart Physicians Georgia Intermodal Servic Georgia Infectious Diseases, Pc Georgia High School Association Georgia Southwestern State Univ Georgia Institute Of Technology Georgia State University Georgia Southern University Georgia College & State Univ Georgia Psychological Association Georgia Underwriting Asso Georgia Assoc. For Primary Health Care, Inc. Georgia Air Specialists Georgia Electric Associates Inc Georgia Medical Staffing Georgia Vision Institute Georgia Logistics Group Georgia Accounting Services Llc Georgia Property Kings Llc Georgia Auto Law Georgina Sunflowers Llc Georgia Resilience And Opportunity Fund Inc Georgia Psychiatric Center Llc Georgia Empire Contracting Llc Georgia Pacific Georgia A Hall Behavior C Georgina A. Marquez Dvm, Inc.
+2026-06-22 09:18:03,149  INFO        - Georgia Historical Society
+2026-06-22 09:18:03,149  INFO        - Georgia Hospital Association
+2026-06-22 09:18:03,149  INFO        - Georgia Independent School Association
+2026-06-22 09:18:03,149  INFO        - Georgia Infectious Diseases, Pc
+2026-06-22 09:18:03,150  INFO        - Georgia Institute Of Technology
+2026-06-22 09:18:03,150  INFO        - Georgia Interfaith Power & Light Inc
+2026-06-22 09:18:03,150  INFO        - Georgia Intermodal Servic
+2026-06-22 09:18:03,150  INFO        - Georgia Legacy Law Group Llc
+2026-06-22 09:18:03,150  INFO        - Georgia Logistics Group
+2026-06-22 09:18:03,150  INFO        - Georgia Lottery Corporation
+2026-06-22 09:18:03,151  INFO        - Georgia Machine Works, Inc
+2026-06-22 09:18:03,151  INFO        - Georgia Medical Staffing
+2026-06-22 09:18:03,151  INFO        - Georgia Mills Inc
+2026-06-22 09:18:03,151  INFO        - Georgia Motor Trucking Association
+2026-06-22 09:18:03,151  INFO        - Georgia Mountain Endocrinology
+2026-06-22 09:18:03,151  INFO        - Georgia Mountain Food Bank
+2026-06-22 09:18:03,151  INFO        - Georgia Mountain Hospice
+2026-06-22 09:18:03,151  INFO        - Georgia Nephrology
+2026-06-22 09:18:03,151  INFO        - Georgia Neurological Surgery
+2026-06-22 09:18:03,151  INFO        - Georgia Neurosurgical Institute Pc
+2026-06-22 09:18:03,152  INFO        - Georgia Nurses Association
+2026-06-22 09:18:03,152  INFO        - Georgia Optometric Associ
+2026-06-22 09:18:03,153  INFO        - Georgia Oral & Facial Sur
+2026-06-22 09:18:03,153  INFO        - Georgia Pacific
+2026-06-22 09:18:03,153  INFO        - Georgia Partnership For Excellence In Education
+2026-06-22 09:18:03,153  INFO        - Georgia Pharmacy Association
+2026-06-22 09:18:03,153  INFO        - Georgia Poultry Federation
+2026-06-22 09:18:03,153  INFO        - Georgia Premier Sonograph
+2026-06-22 09:18:03,154  INFO        - Georgia Property Kings Llc
+2026-06-22 09:18:03,157  INFO        - Georgia Psychiatric Center Llc
+2026-06-22 09:18:03,157  INFO        - Georgia Psychological Association
+2026-06-22 09:18:03,157  INFO        - Georgia Pump Inc
+2026-06-22 09:18:03,158  INFO        - Georgia Rehabilitation Institute, Inc
+2026-06-22 09:18:03,158  INFO        - Georgia Research Alliance
+2026-06-22 09:18:03,158  INFO        - Georgia Resilience And Opportunity Fund Inc
+2026-06-22 09:18:03,158  INFO        - Georgia River Network
+2026-06-22 09:18:03,159  INFO        - Georgia Senior Living Ass
+2026-06-22 09:18:03,159  INFO        - Georgia Southern University
+2026-06-22 09:18:03,159  INFO        - Georgia Southwestern State Univ
+2026-06-22 09:18:03,159  INFO        - Georgia Stage Llc
+2026-06-22 09:18:03,159  INFO        - Georgia State University
+2026-06-22 09:18:03,159  INFO        - Georgia Storefronts Inc
+2026-06-22 09:18:03,159  INFO        - Georgia Surveyors Exchange Company Inc
+2026-06-22 09:18:03,159  INFO        - Georgia Tapert Design Llc
+2026-06-22 09:18:03,159  INFO        - Georgia Tech Alumni Association Inc
+2026-06-22 09:18:03,159  INFO        - Georgia Theatre Company
+2026-06-22 09:18:03,160  INFO        - Georgia Timber Llc
+2026-06-22 09:18:03,160  INFO        - Georgia Title Pawn Llc
+2026-06-22 09:18:03,160  INFO        - Georgia Title Source, Llc
+2026-06-22 09:18:03,160  INFO        - Georgia Underwriting Asso
+2026-06-22 09:18:03,160  INFO        - Georgia United Credit Union
+2026-06-22 09:18:03,160  INFO        - Georgia Vision Institute
+2026-06-22 09:18:03,160  INFO        - Georgia-Florida Harvestore, Inc.
+2026-06-22 09:18:03,160  INFO      
+[1/102] Processing: Georgia A Hall Behavior C
+2026-06-22 09:18:09,099  ERROR     Failed processing 'Georgia A Hall Behavior C': Could not click suggestion: Georgia A Hall Behavior C
+2026-06-22 09:18:09,100  INFO      
+[2/102] Processing: Georgia Accounting Services Llc
+2026-06-22 09:18:15,031  ERROR     Failed processing 'Georgia Accounting Services Llc': Could not click suggestion: Georgia Accounting Services Llc
+2026-06-22 09:18:15,031  INFO      
+[3/102] Processing: Georgia Air Specialists
+2026-06-22 09:18:20,932  ERROR     Failed processing 'Georgia Air Specialists': Could not click suggestion: Georgia Air Specialists
+2026-06-22 09:18:20,935  INFO      
+[4/102] Processing: Georgia Arms Inc.
+2026-06-22 09:18:26,757  ERROR     Failed processing 'Georgia Arms Inc.': Could not click suggestion: Georgia Arms Inc.
+2026-06-22 09:18:26,757  INFO      
+[5/102] Processing: Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:18:32,583  ERROR     Failed processing 'Georgia Arrhythmia Consultants, Llc': Could not click suggestion: Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:18:32,583  INFO      
+[6/102] Processing: Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 09:18:34,105  ERROR     Failed processing 'Georgia Assoc. For Primary Health Care, Inc.': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-22 09:18:34,106  INFO      
+[7/102] Processing: Georgia Association Of Broadcasters
+2026-06-22 09:18:34,110  ERROR     Failed processing 'Georgia Association Of Broadcasters': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,110  INFO      
+[8/102] Processing: Georgia Association Of Educators
+2026-06-22 09:18:34,119  ERROR     Failed processing 'Georgia Association Of Educators': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,119  INFO      
+[9/102] Processing: Georgia Asylum And Immigration Network
+2026-06-22 09:18:34,126  ERROR     Failed processing 'Georgia Asylum And Immigration Network': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,126  INFO      
+[10/102] Processing: Georgia Auto Law
+2026-06-22 09:18:34,129  ERROR     Failed processing 'Georgia Auto Law': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,130  INFO      
+[11/102] Processing: Georgia Automobile Dealers Association
+2026-06-22 09:18:34,135  ERROR     Failed processing 'Georgia Automobile Dealers Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,136  INFO      
+[12/102] Processing: Georgia Bankers Association Insurance Trust
+2026-06-22 09:18:34,142  ERROR     Failed processing 'Georgia Bankers Association Insurance Trust': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,143  INFO      
+[13/102] Processing: Georgia Baptist Childrens Home
+2026-06-22 09:18:34,145  ERROR     Failed processing 'Georgia Baptist Childrens Home': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,146  INFO      
+[14/102] Processing: Georgia Baptist Convention
+2026-06-22 09:18:34,152  ERROR     Failed processing 'Georgia Baptist Convention': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,153  INFO      
+[15/102] Processing: Georgia Center For Child Advocacy
+2026-06-22 09:18:34,160  ERROR     Failed processing 'Georgia Center For Child Advocacy': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,161  INFO      
+[16/102] Processing: Georgia Center For Opportunity
+2026-06-22 09:18:34,166  ERROR     Failed processing 'Georgia Center For Opportunity': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,167  INFO      
+[17/102] Processing: Georgia Chamber Of Commerce
+2026-06-22 09:18:34,171  ERROR     Failed processing 'Georgia Chamber Of Commerce': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,199  INFO      
+[18/102] Processing: Georgia Climate Control Inc
+2026-06-22 09:18:34,206  ERROR     Failed processing 'Georgia Climate Control Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,209  INFO      
+[19/102] Processing: Georgia Coaltion Against Domestic Violence
+2026-06-22 09:18:34,212  ERROR     Failed processing 'Georgia Coaltion Against Domestic Violence': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,212  INFO      
+[20/102] Processing: Georgia Cold Storage Co
+2026-06-22 09:18:34,215  ERROR     Failed processing 'Georgia Cold Storage Co': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,216  INFO      
+[21/102] Processing: Georgia College & State Univ
+2026-06-22 09:18:34,219  ERROR     Failed processing 'Georgia College & State Univ': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,220  INFO      
+[22/102] Processing: Georgia Commercial Construction,Inc.
+2026-06-22 09:18:34,223  ERROR     Failed processing 'Georgia Commercial Construction,Inc.': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,225  INFO      
+[23/102] Processing: Georgia Computer Inc
+2026-06-22 09:18:34,227  ERROR     Failed processing 'Georgia Computer Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,227  INFO      
+[24/102] Processing: Georgia Council For International Visitors
+2026-06-22 09:18:34,229  ERROR     Failed processing 'Georgia Council For International Visitors': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,230  INFO      
+[25/102] Processing: Georgia Crop Improvement
+2026-06-22 09:18:34,232  ERROR     Failed processing 'Georgia Crop Improvement': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,232  INFO      
+[26/102] Processing: Georgia Dental Association
+2026-06-22 09:18:34,234  ERROR     Failed processing 'Georgia Dental Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,234  INFO      
+[27/102] Processing: Georgia Economic Developers Association
+2026-06-22 09:18:34,238  ERROR     Failed processing 'Georgia Economic Developers Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,238  INFO      
+[28/102] Processing: Georgia Electric Associates Inc
+2026-06-22 09:18:34,242  ERROR     Failed processing 'Georgia Electric Associates Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,242  INFO      
+[29/102] Processing: Georgia Empire Contracting Llc
+2026-06-22 09:18:34,244  ERROR     Failed processing 'Georgia Empire Contracting Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,245  INFO      
+[30/102] Processing: Georgia Exposition Manufacturing Corporation
+2026-06-22 09:18:34,248  ERROR     Failed processing 'Georgia Exposition Manufacturing Corporation': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,248  INFO      
+[31/102] Processing: Georgia Family Connection Partnership Inc
+2026-06-22 09:18:34,251  ERROR     Failed processing 'Georgia Family Connection Partnership Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,251  INFO      
+[32/102] Processing: Georgia Farm Bureau
+2026-06-22 09:18:34,254  ERROR     Failed processing 'Georgia Farm Bureau': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,254  INFO      
+[33/102] Processing: Georgia Firefighters Burn
+2026-06-22 09:18:34,258  ERROR     Failed processing 'Georgia Firefighters Burn': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,259  INFO      
+[34/102] Processing: Georgia Forestry Association Inc
+2026-06-22 09:18:34,261  ERROR     Failed processing 'Georgia Forestry Association Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,261  INFO      
+[35/102] Processing: Georgia Gunite & Pool Co.
+2026-06-22 09:18:34,263  ERROR     Failed processing 'Georgia Gunite & Pool Co.': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,263  INFO      
+[36/102] Processing: Georgia Gwinnett College
+2026-06-22 09:18:34,265  ERROR     Failed processing 'Georgia Gwinnett College': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,265  INFO      
+[37/102] Processing: Georgia Haddad Dds Inc
+2026-06-22 09:18:34,268  ERROR     Failed processing 'Georgia Haddad Dds Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,268  INFO      
+[38/102] Processing: Georgia Hap Administrators,Inc
+2026-06-22 09:18:34,272  ERROR     Failed processing 'Georgia Hap Administrators,Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,273  INFO      
+[39/102] Processing: Georgia Hardwoods Inc
+2026-06-22 09:18:34,275  ERROR     Failed processing 'Georgia Hardwoods Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,275  INFO      
+[40/102] Processing: Georgia Health Initiative
+2026-06-22 09:18:34,277  ERROR     Failed processing 'Georgia Health Initiative': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,277  INFO      
+[41/102] Processing: Georgia Heart Physicians
+2026-06-22 09:18:34,279  ERROR     Failed processing 'Georgia Heart Physicians': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,279  INFO      
+[42/102] Processing: Georgia Heirs Property
+2026-06-22 09:18:34,280  ERROR     Failed processing 'Georgia Heirs Property': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,280  INFO      
+[43/102] Processing: Georgia Hi-Tech Fabricators Inc
+2026-06-22 09:18:34,282  ERROR     Failed processing 'Georgia Hi-Tech Fabricators Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,282  INFO      
+[44/102] Processing: Georgia High School Association
+2026-06-22 09:18:34,286  ERROR     Failed processing 'Georgia High School Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,286  INFO      
+[45/102] Processing: Georgia Highlands College
+2026-06-22 09:18:34,289  ERROR     Failed processing 'Georgia Highlands College': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,290  INFO      
+[46/102] Processing: Georgia Highlands Medical Services Inc
+2026-06-22 09:18:34,292  ERROR     Failed processing 'Georgia Highlands Medical Services Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,292  INFO      
+[47/102] Processing: Georgia Highway Contractors Association
+2026-06-22 09:18:34,294  ERROR     Failed processing 'Georgia Highway Contractors Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,294  INFO      
+[48/102] Processing: Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:18:34,297  ERROR     Failed processing 'Georgia Hispanic Chamber Of Commerce': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,297  INFO      
+[49/102] Processing: Georgia Hispanic Chamber Of Commerce Georgia Climate Control Inc Georgia Premier Sonograph Georgia Machine Works, Inc Georgia Independent School Association Georgia Asylum And Immigration Network Georgia Mountain Food Bank Georgia Gwinnett College Georgia Haddad Dds Inc Georgia Mountain Endocrinology Georgia Oral & Facial Sur Georgia Arrhythmia Consultants, Llc Georgia Title Source, Llc Georgia Legacy Law Group Llc Georgia Interfaith Power & Light Inc Georgia Mills Inc Georgia Timber Llc Georgia Stage Llc Georgina Sullos Georgia Tapert Design Llc Georgia Title Pawn Llc Georgia Heirs Property Georgia Nurses Association Georgia Highway Contractors Association Georgia Pharmacy Association Georgia Motor Trucking Association Georgia Forestry Association Inc Georgia Optometric Associ Georgia Baptist Convention Georgia Historical Society Georgia Baptist Childrens Home Georgia Poultry Federation Georgia Hospital Association Georgia Crop Improvement Georgia Dental Association Georgia Tech Alumni Association Inc Georgia Farm Bureau Georgia United Credit Union Georgia Association Of Broadcasters Georgia Council For International Visitors Georgia Neurosurgical Institute Pc Georgia Highlands College Georgia Association Of Educators Georgia Automobile Dealers Association Georgia-Florida Harvestore, Inc. Georgia Cold Storage Co Georgia Economic Developers Association Georgia Highlands Medical Services Inc Georgia Surveyors Exchange Company Inc Georgia Commercial Construction,Inc. Georgia Arms Inc. Georgia Firefighters Burn Georgia Chamber Of Commerce Georgia Hi-Tech Fabricators Inc Georgia Rehabilitation Institute, Inc Georgia Exposition Manufacturing Corporation Georgia Neurological Surgery Georgia Center For Child Advocacy Georgia Hardwoods Inc Georgia Coaltion Against Domestic Violence Georgia Pump Inc Georgia Family Connection Partnership Inc Georgia Research Alliance Georgia Center For Opportunity Georgia Theatre Company Georgia Partnership For Excellence In Education Georgia Lottery Corporation Georgia Mountain Hospice Georgia Computer Inc Georgia Nephrology Georgia Bankers Association Insurance Trust Georgia Storefronts Inc Georgia River Network Georgia Senior Living Ass Georgia Health Initiative Georgia Hap Administrators,Inc Georgia Gunite & Pool Co. Georgia Heart Physicians Georgia Intermodal Servic Georgia Infectious Diseases, Pc Georgia High School Association Georgia Southwestern State Univ Georgia Institute Of Technology Georgia State University Georgia Southern University Georgia College & State Univ Georgia Psychological Association Georgia Underwriting Asso Georgia Assoc. For Primary Health Care, Inc. Georgia Air Specialists Georgia Electric Associates Inc Georgia Medical Staffing Georgia Vision Institute Georgia Logistics Group Georgia Accounting Services Llc Georgia Property Kings Llc Georgia Auto Law Georgina Sunflowers Llc Georgia Resilience And Opportunity Fund Inc Georgia Psychiatric Center Llc Georgia Empire Contracting Llc Georgia Pacific Georgia A Hall Behavior C Georgina A. Marquez Dvm, Inc.
+2026-06-22 09:18:34,298  ERROR     Failed processing 'Georgia Hispanic Chamber Of Commerce Georgia Climate Control Inc Georgia Premier Sonograph Georgia Machine Works, Inc Georgia Independent School Association Georgia Asylum And Immigration Network Georgia Mountain Food Bank Georgia Gwinnett College Georgia Haddad Dds Inc Georgia Mountain Endocrinology Georgia Oral & Facial Sur Georgia Arrhythmia Consultants, Llc Georgia Title Source, Llc Georgia Legacy Law Group Llc Georgia Interfaith Power & Light Inc Georgia Mills Inc Georgia Timber Llc Georgia Stage Llc Georgina Sullos Georgia Tapert Design Llc Georgia Title Pawn Llc Georgia Heirs Property Georgia Nurses Association Georgia Highway Contractors Association Georgia Pharmacy Association Georgia Motor Trucking Association Georgia Forestry Association Inc Georgia Optometric Associ Georgia Baptist Convention Georgia Historical Society Georgia Baptist Childrens Home Georgia Poultry Federation Georgia Hospital Association Georgia Crop Improvement Georgia Dental Association Georgia Tech Alumni Association Inc Georgia Farm Bureau Georgia United Credit Union Georgia Association Of Broadcasters Georgia Council For International Visitors Georgia Neurosurgical Institute Pc Georgia Highlands College Georgia Association Of Educators Georgia Automobile Dealers Association Georgia-Florida Harvestore, Inc. Georgia Cold Storage Co Georgia Economic Developers Association Georgia Highlands Medical Services Inc Georgia Surveyors Exchange Company Inc Georgia Commercial Construction,Inc. Georgia Arms Inc. Georgia Firefighters Burn Georgia Chamber Of Commerce Georgia Hi-Tech Fabricators Inc Georgia Rehabilitation Institute, Inc Georgia Exposition Manufacturing Corporation Georgia Neurological Surgery Georgia Center For Child Advocacy Georgia Hardwoods Inc Georgia Coaltion Against Domestic Violence Georgia Pump Inc Georgia Family Connection Partnership Inc Georgia Research Alliance Georgia Center For Opportunity Georgia Theatre Company Georgia Partnership For Excellence In Education Georgia Lottery Corporation Georgia Mountain Hospice Georgia Computer Inc Georgia Nephrology Georgia Bankers Association Insurance Trust Georgia Storefronts Inc Georgia River Network Georgia Senior Living Ass Georgia Health Initiative Georgia Hap Administrators,Inc Georgia Gunite & Pool Co. Georgia Heart Physicians Georgia Intermodal Servic Georgia Infectious Diseases, Pc Georgia High School Association Georgia Southwestern State Univ Georgia Institute Of Technology Georgia State University Georgia Southern University Georgia College & State Univ Georgia Psychological Association Georgia Underwriting Asso Georgia Assoc. For Primary Health Care, Inc. Georgia Air Specialists Georgia Electric Associates Inc Georgia Medical Staffing Georgia Vision Institute Georgia Logistics Group Georgia Accounting Services Llc Georgia Property Kings Llc Georgia Auto Law Georgina Sunflowers Llc Georgia Resilience And Opportunity Fund Inc Georgia Psychiatric Center Llc Georgia Empire Contracting Llc Georgia Pacific Georgia A Hall Behavior C Georgina A. Marquez Dvm, Inc.': [WinError 3] The system cannot find the path specified: 'Georgia\\Georgia Hispanic Chamber Of Commerce Georgia Climate Control Inc Georgia Premier Sonograph Georgia Machine Works, Inc Georgia Independent School Association Georgia Asylum And Immigration Network Georgia Mountain Food Bank Georgia Gwinnett College Georgia Haddad Dds Inc Georgia Mountain Endocrinology Georgia Oral & Facial Sur Georgia Arrhythmia Consultants, Llc Georgia Title Source, Llc Georgia Legacy Law Group Llc Georgia Interfaith Power & Light Inc Georgia Mills Inc Georgia Timber Llc Georgia Stage Llc Georgina Sullos Georgia Tapert Design Llc Georgia Title Pawn Llc Georgia Heirs Property Georgia Nurses Association Georgia Highway Contractors Association Georgia Pharmacy Association Georgia Motor Trucking Association Georgia Forestry Association Inc Georgia Optometric Associ Georgia Baptist Convention Georgia Historical Society Georgia Baptist Childrens Home Georgia Poultry Federation Georgia Hospital Association Georgia Crop Improvement Georgia Dental Association Georgia Tech Alumni Association Inc Georgia Farm Bureau Georgia United Credit Union Georgia Association Of Broadcasters Georgia Council For International Visitors Georgia Neurosurgical Institute Pc Georgia Highlands College Georgia Association Of Educators Georgia Automobile Dealers Association Georgia-Florida Harvestore, Inc. Georgia Cold Storage Co Georgia Economic Developers Association Georgia Highlands Medical Services Inc Georgia Surveyors Exchange Company Inc Georgia Commercial Construction,Inc. Georgia Arms Inc. Georgia Firefighters Burn Georgia Chamber Of Commerce Georgia Hi-Tech Fabricators Inc Georgia Rehabilitation Institute, Inc Georgia Exposition Manufacturing Corporation Georgia Neurological Surgery Georgia Center For Child Advocacy Georgia Hardwoods Inc Georgia Coaltion Against Domestic Violence Georgia Pump Inc Georgia Family Connection Partnership Inc Georgia Research Alliance Georgia Center For Opportunity Georgia Theatre Company Georgia Partnership For Excellence In Education Georgia Lottery Corporation Georgia Mountain Hospice Georgia Computer Inc Georgia Nephrology Georgia Bankers Association Insurance Trust Georgia Storefronts Inc Georgia River Network Georgia Senior Living Ass Georgia Health Initiative Georgia Hap Administrators,Inc Georgia Gunite & Pool Co. Georgia Heart Physicians Georgia Intermodal Servic Georgia Infectious Diseases, Pc Georgia High School Association Georgia Southwestern State Univ Georgia Institute Of Technology Georgia State University Georgia Southern University Georgia College & State Univ Georgia Psychological Association Georgia Underwriting Asso Georgia Assoc. For Primary Health Care, Inc. Georgia Air Specialists Georgia Electric Associates Inc Georgia Medical Staffing Georgia Vision Institute Georgia Logistics Group Georgia Accounting Services Llc Georgia Property Kings Llc Georgia Auto Law Georgina Sunflowers Llc Georgia Resilience And Opportunity Fund Inc Georgia Psychiatric Center Llc Georgia Empire Contracting Llc Georgia Pacific Georgia A Hall Behavior C Georgina A. Marquez Dvm, Inc.'
+2026-06-22 09:18:34,299  INFO      
+[50/102] Processing: Georgia Historical Society
+2026-06-22 09:18:34,301  ERROR     Failed processing 'Georgia Historical Society': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,301  INFO      
+[51/102] Processing: Georgia Hospital Association
+2026-06-22 09:18:34,305  ERROR     Failed processing 'Georgia Hospital Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,305  INFO      
+[52/102] Processing: Georgia Independent School Association
+2026-06-22 09:18:34,308  ERROR     Failed processing 'Georgia Independent School Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,308  INFO      
+[53/102] Processing: Georgia Infectious Diseases, Pc
+2026-06-22 09:18:34,310  ERROR     Failed processing 'Georgia Infectious Diseases, Pc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,310  INFO      
+[54/102] Processing: Georgia Institute Of Technology
+2026-06-22 09:18:34,312  ERROR     Failed processing 'Georgia Institute Of Technology': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,312  INFO      
+[55/102] Processing: Georgia Interfaith Power & Light Inc
+2026-06-22 09:18:34,315  ERROR     Failed processing 'Georgia Interfaith Power & Light Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,315  INFO      
+[56/102] Processing: Georgia Intermodal Servic
+2026-06-22 09:18:34,318  ERROR     Failed processing 'Georgia Intermodal Servic': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,318  INFO      
+[57/102] Processing: Georgia Legacy Law Group Llc
+2026-06-22 09:18:34,322  ERROR     Failed processing 'Georgia Legacy Law Group Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,322  INFO      
+[58/102] Processing: Georgia Logistics Group
+2026-06-22 09:18:34,325  ERROR     Failed processing 'Georgia Logistics Group': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,325  INFO      
+[59/102] Processing: Georgia Lottery Corporation
+2026-06-22 09:18:34,327  ERROR     Failed processing 'Georgia Lottery Corporation': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,328  INFO      
+[60/102] Processing: Georgia Machine Works, Inc
+2026-06-22 09:18:34,330  ERROR     Failed processing 'Georgia Machine Works, Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,330  INFO      
+[61/102] Processing: Georgia Medical Staffing
+2026-06-22 09:18:34,334  ERROR     Failed processing 'Georgia Medical Staffing': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,336  INFO      
+[62/102] Processing: Georgia Mills Inc
+2026-06-22 09:18:34,340  ERROR     Failed processing 'Georgia Mills Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,340  INFO      
+[63/102] Processing: Georgia Motor Trucking Association
+2026-06-22 09:18:34,342  ERROR     Failed processing 'Georgia Motor Trucking Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,343  INFO      
+[64/102] Processing: Georgia Mountain Endocrinology
+2026-06-22 09:18:34,345  ERROR     Failed processing 'Georgia Mountain Endocrinology': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,345  INFO      
+[65/102] Processing: Georgia Mountain Food Bank
+2026-06-22 09:18:34,347  ERROR     Failed processing 'Georgia Mountain Food Bank': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,347  INFO      
+[66/102] Processing: Georgia Mountain Hospice
+2026-06-22 09:18:34,349  ERROR     Failed processing 'Georgia Mountain Hospice': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,349  INFO      
+[67/102] Processing: Georgia Nephrology
+2026-06-22 09:18:34,352  ERROR     Failed processing 'Georgia Nephrology': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,353  INFO      
+[68/102] Processing: Georgia Neurological Surgery
+2026-06-22 09:18:34,357  ERROR     Failed processing 'Georgia Neurological Surgery': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,357  INFO      
+[69/102] Processing: Georgia Neurosurgical Institute Pc
+2026-06-22 09:18:34,360  ERROR     Failed processing 'Georgia Neurosurgical Institute Pc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,360  INFO      
+[70/102] Processing: Georgia Nurses Association
+2026-06-22 09:18:34,362  ERROR     Failed processing 'Georgia Nurses Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,362  INFO      
+[71/102] Processing: Georgia Optometric Associ
+2026-06-22 09:18:34,366  ERROR     Failed processing 'Georgia Optometric Associ': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,366  INFO      
+[72/102] Processing: Georgia Oral & Facial Sur
+2026-06-22 09:18:34,369  ERROR     Failed processing 'Georgia Oral & Facial Sur': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,369  INFO      
+[73/102] Processing: Georgia Pacific
+2026-06-22 09:18:34,372  ERROR     Failed processing 'Georgia Pacific': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,372  INFO      
+[74/102] Processing: Georgia Partnership For Excellence In Education
+2026-06-22 09:18:34,375  ERROR     Failed processing 'Georgia Partnership For Excellence In Education': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,376  INFO      
+[75/102] Processing: Georgia Pharmacy Association
+2026-06-22 09:18:34,378  ERROR     Failed processing 'Georgia Pharmacy Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,379  INFO      
+[76/102] Processing: Georgia Poultry Federation
+2026-06-22 09:18:34,381  ERROR     Failed processing 'Georgia Poultry Federation': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,382  INFO      
+[77/102] Processing: Georgia Premier Sonograph
+2026-06-22 09:18:34,385  ERROR     Failed processing 'Georgia Premier Sonograph': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,385  INFO      
+[78/102] Processing: Georgia Property Kings Llc
+2026-06-22 09:18:34,388  ERROR     Failed processing 'Georgia Property Kings Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,388  INFO      
+[79/102] Processing: Georgia Psychiatric Center Llc
+2026-06-22 09:18:34,390  ERROR     Failed processing 'Georgia Psychiatric Center Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,390  INFO      
+[80/102] Processing: Georgia Psychological Association
+2026-06-22 09:18:34,392  ERROR     Failed processing 'Georgia Psychological Association': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,392  INFO      
+[81/102] Processing: Georgia Pump Inc
+2026-06-22 09:18:34,393  ERROR     Failed processing 'Georgia Pump Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,394  INFO      
+[82/102] Processing: Georgia Rehabilitation Institute, Inc
+2026-06-22 09:18:34,396  ERROR     Failed processing 'Georgia Rehabilitation Institute, Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,396  INFO      
+[83/102] Processing: Georgia Research Alliance
+2026-06-22 09:18:34,398  ERROR     Failed processing 'Georgia Research Alliance': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,398  INFO      
+[84/102] Processing: Georgia Resilience And Opportunity Fund Inc
+2026-06-22 09:18:34,400  ERROR     Failed processing 'Georgia Resilience And Opportunity Fund Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,400  INFO      
+[85/102] Processing: Georgia River Network
+2026-06-22 09:18:34,402  ERROR     Failed processing 'Georgia River Network': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,402  INFO      
+[86/102] Processing: Georgia Senior Living Ass
+2026-06-22 09:18:34,405  ERROR     Failed processing 'Georgia Senior Living Ass': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,405  INFO      
+[87/102] Processing: Georgia Southern University
+2026-06-22 09:18:34,407  ERROR     Failed processing 'Georgia Southern University': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,407  INFO      
+[88/102] Processing: Georgia Southwestern State Univ
+2026-06-22 09:18:34,409  ERROR     Failed processing 'Georgia Southwestern State Univ': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,409  INFO      
+[89/102] Processing: Georgia Stage Llc
+2026-06-22 09:18:34,410  ERROR     Failed processing 'Georgia Stage Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,411  INFO      
+[90/102] Processing: Georgia State University
+2026-06-22 09:18:34,412  ERROR     Failed processing 'Georgia State University': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,412  INFO      
+[91/102] Processing: Georgia Storefronts Inc
+2026-06-22 09:18:34,414  ERROR     Failed processing 'Georgia Storefronts Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,414  INFO      
+[92/102] Processing: Georgia Surveyors Exchange Company Inc
+2026-06-22 09:18:34,419  ERROR     Failed processing 'Georgia Surveyors Exchange Company Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,420  INFO      
+[93/102] Processing: Georgia Tapert Design Llc
+2026-06-22 09:18:34,422  ERROR     Failed processing 'Georgia Tapert Design Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,422  INFO      
+[94/102] Processing: Georgia Tech Alumni Association Inc
+2026-06-22 09:18:34,424  ERROR     Failed processing 'Georgia Tech Alumni Association Inc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,424  INFO      
+[95/102] Processing: Georgia Theatre Company
+2026-06-22 09:18:34,426  ERROR     Failed processing 'Georgia Theatre Company': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,427  INFO      
+[96/102] Processing: Georgia Timber Llc
+2026-06-22 09:18:34,428  ERROR     Failed processing 'Georgia Timber Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,429  INFO      
+[97/102] Processing: Georgia Title Pawn Llc
+2026-06-22 09:18:34,431  ERROR     Failed processing 'Georgia Title Pawn Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,431  INFO      
+[98/102] Processing: Georgia Title Source, Llc
+2026-06-22 09:18:34,433  ERROR     Failed processing 'Georgia Title Source, Llc': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,433  INFO      
+[99/102] Processing: Georgia Underwriting Asso
+2026-06-22 09:18:34,437  ERROR     Failed processing 'Georgia Underwriting Asso': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,437  INFO      
+[100/102] Processing: Georgia United Credit Union
+2026-06-22 09:18:34,440  ERROR     Failed processing 'Georgia United Credit Union': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,440  INFO      
+[101/102] Processing: Georgia Vision Institute
+2026-06-22 09:18:34,442  ERROR     Failed processing 'Georgia Vision Institute': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:34,442  INFO      
+[102/102] Processing: Georgia-Florida Harvestore, Inc.
+2026-06-22 09:18:34,444  ERROR     Failed processing 'Georgia-Florida Harvestore, Inc.': Page.goto: Target page, context or browser has been closed
+2026-06-22 09:18:35,155  INFO      
+Total unique files queued: 0
+2026-06-22 09:18:35,155  INFO      
+============================================================
+2026-06-22 09:18:35,155  INFO      DONE  ✓ 0 downloaded  ⏭ 0 skipped  ✗ 0 failed
+2026-06-22 09:18:35,156  INFO      Files saved under: C:\Users\v-teopeinigo\OneDrive - Microsoft\Documents\Automation\UI Automation\Georgia
+2026-06-22 09:26:26,727  INFO      Collected 0 suggestion(s) for 'Georgia'
+2026-06-22 09:26:26,728  ERROR     No dropdown suggestions found. Try running with HEADLESS=False and page.pause().
+2026-06-22 09:28:14,773  INFO      Collected 0 suggestion(s) for 'Georgia'
+2026-06-22 09:28:14,774  ERROR     No dropdown suggestions found. Try running with HEADLESS=False and page.pause().
+2026-06-22 09:32:35,660  INFO      Collected 101 suggestion(s) for 'Georgia'
+2026-06-22 09:32:35,661  INFO        - Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:32:35,662  INFO        - Georgia Climate Control Inc
+2026-06-22 09:32:35,662  INFO        - Georgia Premier Sonograph
+2026-06-22 09:32:35,662  INFO        - Georgia Machine Works, Inc
+2026-06-22 09:32:35,662  INFO        - Georgia Independent School Association
+2026-06-22 09:32:35,663  INFO        - Georgia Asylum And Immigration Network
+2026-06-22 09:32:35,663  INFO        - Georgia Mountain Food Bank
+2026-06-22 09:32:35,664  INFO        - Georgia Gwinnett College
+2026-06-22 09:32:35,665  INFO        - Georgia Haddad Dds Inc
+2026-06-22 09:32:35,665  INFO        - Georgia Mountain Endocrinology
+2026-06-22 09:32:35,666  INFO        - Georgia Oral & Facial Sur
+2026-06-22 09:32:35,666  INFO        - Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:32:35,667  INFO        - Georgia Title Source, Llc
+2026-06-22 09:32:35,667  INFO        - Georgia Legacy Law Group Llc
+2026-06-22 09:32:35,668  INFO        - Georgia Interfaith Power & Light Inc
+2026-06-22 09:32:35,670  INFO        - Georgia Mills Inc
+2026-06-22 09:32:35,671  INFO        - Georgia Timber Llc
+2026-06-22 09:32:35,671  INFO        - Georgia Stage Llc
+2026-06-22 09:32:35,671  INFO        - Georgia Tapert Design Llc
+2026-06-22 09:32:35,672  INFO        - Georgia Title Pawn Llc
+2026-06-22 09:32:35,672  INFO        - Georgia Heirs Property
+2026-06-22 09:32:35,672  INFO        - Georgia Nurses Association
+2026-06-22 09:32:35,672  INFO        - Georgia Highway Contractors Association
+2026-06-22 09:32:35,672  INFO        - Georgia Pharmacy Association
+2026-06-22 09:32:35,673  INFO        - Georgia Motor Trucking Association
+2026-06-22 09:32:35,673  INFO        - Georgia Forestry Association Inc
+2026-06-22 09:32:35,673  INFO        - Georgia Optometric Associ
+2026-06-22 09:32:35,673  INFO        - Georgia Baptist Convention
+2026-06-22 09:32:35,673  INFO        - Georgia Historical Society
+2026-06-22 09:32:35,673  INFO        - Georgia Baptist Childrens Home
+2026-06-22 09:32:35,673  INFO        - Georgia Poultry Federation
+2026-06-22 09:32:35,674  INFO        - Georgia Hospital Association
+2026-06-22 09:32:35,674  INFO        - Georgia Crop Improvement
+2026-06-22 09:32:35,674  INFO        - Georgia Dental Association
+2026-06-22 09:32:35,674  INFO        - Georgia Tech Alumni Association Inc
+2026-06-22 09:32:35,675  INFO        - Georgia Farm Bureau
+2026-06-22 09:32:35,675  INFO        - Georgia United Credit Union
+2026-06-22 09:32:35,675  INFO        - Georgia Association Of Broadcasters
+2026-06-22 09:32:35,676  INFO        - Georgia Council For International Visitors
+2026-06-22 09:32:35,676  INFO        - Georgia Neurosurgical Institute Pc
+2026-06-22 09:32:35,676  INFO        - Georgia Highlands College
+2026-06-22 09:32:35,676  INFO        - Georgia Association Of Educators
+2026-06-22 09:32:35,676  INFO        - Georgia Automobile Dealers Association
+2026-06-22 09:32:35,676  INFO        - Georgia-Florida Harvestore, Inc.
+2026-06-22 09:32:35,677  INFO        - Georgia Cold Storage Co
+2026-06-22 09:32:35,677  INFO        - Georgia Economic Developers Association
+2026-06-22 09:32:35,677  INFO        - Georgia Highlands Medical Services Inc
+2026-06-22 09:32:35,677  INFO        - Georgia Surveyors Exchange Company Inc
+2026-06-22 09:32:35,680  INFO        - Georgia Commercial Construction,Inc.
+2026-06-22 09:32:35,681  INFO        - Georgia Arms Inc.
+2026-06-22 09:32:35,681  INFO        - Georgia Firefighters Burn
+2026-06-22 09:32:35,682  INFO        - Georgia Chamber Of Commerce
+2026-06-22 09:32:35,682  INFO        - Georgia Hi-Tech Fabricators Inc
+2026-06-22 09:32:35,682  INFO        - Georgia Rehabilitation Institute, Inc
+2026-06-22 09:32:35,682  INFO        - Georgia Exposition Manufacturing Corporation
+2026-06-22 09:32:35,683  INFO        - Georgia Neurological Surgery
+2026-06-22 09:32:35,683  INFO        - Georgia Center For Child Advocacy
+2026-06-22 09:32:35,683  INFO        - Georgia Hardwoods Inc
+2026-06-22 09:32:35,684  INFO        - Georgia Coaltion Against Domestic Violence
+2026-06-22 09:32:35,684  INFO        - Georgia Pump Inc
+2026-06-22 09:32:35,685  INFO        - Georgia Family Connection Partnership Inc
+2026-06-22 09:32:35,685  INFO        - Georgia Research Alliance
+2026-06-22 09:32:35,685  INFO        - Georgia Center For Opportunity
+2026-06-22 09:32:35,685  INFO        - Georgia Theatre Company
+2026-06-22 09:32:35,686  INFO        - Georgia Partnership For Excellence In Education
+2026-06-22 09:32:35,686  INFO        - Georgia Lottery Corporation
+2026-06-22 09:32:35,686  INFO        - Georgia Mountain Hospice
+2026-06-22 09:32:35,686  INFO        - Georgia Computer Inc
+2026-06-22 09:32:35,686  INFO        - Georgia Nephrology
+2026-06-22 09:32:35,686  INFO        - Georgia Bankers Association Insurance Trust
+2026-06-22 09:32:35,687  INFO        - Georgia Storefronts Inc
+2026-06-22 09:32:35,687  INFO        - Georgia River Network
+2026-06-22 09:32:35,687  INFO        - Georgia Senior Living Ass
+2026-06-22 09:32:35,687  INFO        - Georgia Health Initiative
+2026-06-22 09:32:35,687  INFO        - Georgia Hap Administrators,Inc
+2026-06-22 09:32:35,687  INFO        - Georgia Gunite & Pool Co.
+2026-06-22 09:32:35,687  INFO        - Georgia Heart Physicians
+2026-06-22 09:32:35,687  INFO        - Georgia Intermodal Servic
+2026-06-22 09:32:35,688  INFO        - Georgia Infectious Diseases, Pc
+2026-06-22 09:32:35,688  INFO        - Georgia High School Association
+2026-06-22 09:32:35,688  INFO        - Georgia Southwestern State Univ
+2026-06-22 09:32:35,688  INFO        - Georgia Institute Of Technology
+2026-06-22 09:32:35,689  INFO        - Georgia State University
+2026-06-22 09:32:35,689  INFO        - Georgia Southern University
+2026-06-22 09:32:35,689  INFO        - Georgia College & State Univ
+2026-06-22 09:32:35,689  INFO        - Georgia Psychological Association
+2026-06-22 09:32:35,689  INFO        - Georgia Underwriting Asso
+2026-06-22 09:32:35,689  INFO        - Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 09:32:35,689  INFO        - Georgia Air Specialists
+2026-06-22 09:32:35,689  INFO        - Georgia Electric Associates Inc
+2026-06-22 09:32:35,689  INFO        - Georgia Medical Staffing
+2026-06-22 09:32:35,689  INFO        - Georgia Vision Institute
+2026-06-22 09:32:35,689  INFO        - Georgia Logistics Group
+2026-06-22 09:32:35,689  INFO        - Georgia Accounting Services Llc
+2026-06-22 09:32:35,690  INFO        - Georgia Property Kings Llc
+2026-06-22 09:32:35,690  INFO        - Georgia Auto Law
+2026-06-22 09:32:35,690  INFO        - Georgia Resilience And Opportunity Fund Inc
+2026-06-22 09:32:35,690  INFO        - Georgia Psychiatric Center Llc
+2026-06-22 09:32:35,690  INFO        - Georgia Empire Contracting Llc
+2026-06-22 09:32:35,690  INFO        - Georgia Pacific
+2026-06-22 09:32:35,690  INFO        - Georgia A Hall Behavior C
+2026-06-22 09:32:35,690  INFO      \n[1/101] Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:32:35,690  INFO      Processing suggestion: Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:32:45,533  INFO      Input after click: 'georgia hispanic chamber of commerce'
+2026-06-22 09:32:50,044  INFO        Files found for 'Georgia Hispanic Chamber Of Commerce': 256
+2026-06-22 09:32:50,045  INFO      \n[2/101] Georgia Climate Control Inc
+2026-06-22 09:32:50,045  INFO      Processing suggestion: Georgia Climate Control Inc
+2026-06-22 09:32:59,910  INFO      Input after click: 'georgia climate control inc'
+2026-06-22 09:33:04,303  INFO        Files found for 'Georgia Climate Control Inc': 256
+2026-06-22 09:33:04,305  INFO      \n[3/101] Georgia Premier Sonograph
+2026-06-22 09:33:04,305  INFO      Processing suggestion: Georgia Premier Sonograph
+2026-06-22 09:33:14,193  INFO      Input after click: 'georgia premier sonograph'
+2026-06-22 09:33:19,006  INFO        Files found for 'Georgia Premier Sonograph': 258
+2026-06-22 09:33:19,007  INFO      \n[4/101] Georgia Machine Works, Inc
+2026-06-22 09:33:19,007  INFO      Processing suggestion: Georgia Machine Works, Inc
+2026-06-22 09:33:28,840  INFO      Input after click: 'georgia machine works, inc'
+2026-06-22 09:33:33,146  INFO        Files found for 'Georgia Machine Works, Inc': 256
+2026-06-22 09:33:33,147  INFO      \n[5/101] Georgia Independent School Association
+2026-06-22 09:33:33,147  INFO      Processing suggestion: Georgia Independent School Association
+2026-06-22 09:33:43,093  INFO      Input after click: 'georgia independent school association'
+2026-06-22 09:33:47,387  INFO        Files found for 'Georgia Independent School Association': 256
+2026-06-22 09:33:47,387  INFO      \n[6/101] Georgia Asylum And Immigration Network
+2026-06-22 09:33:47,388  INFO      Processing suggestion: Georgia Asylum And Immigration Network
+2026-06-22 09:33:57,291  INFO      Input after click: 'georgia asylum and immigration network'
+2026-06-22 09:34:02,197  INFO        Files found for 'Georgia Asylum And Immigration Network': 442
+2026-06-22 09:34:02,198  INFO      \n[7/101] Georgia Mountain Food Bank
+2026-06-22 09:34:02,198  INFO      Processing suggestion: Georgia Mountain Food Bank
+2026-06-22 09:34:12,141  INFO      Input after click: 'georgia mountain food bank'
+2026-06-22 09:34:16,472  INFO        Files found for 'Georgia Mountain Food Bank': 256
+2026-06-22 09:34:16,473  INFO      \n[8/101] Georgia Gwinnett College
+2026-06-22 09:34:16,473  INFO      Processing suggestion: Georgia Gwinnett College
+2026-06-22 09:34:26,347  INFO      Input after click: 'georgia gwinnett college'
+2026-06-22 09:34:31,536  INFO        Files found for 'Georgia Gwinnett College': 457
+2026-06-22 09:34:31,537  INFO      \n[9/101] Georgia Haddad Dds Inc
+2026-06-22 09:34:31,537  INFO      Processing suggestion: Georgia Haddad Dds Inc
+2026-06-22 09:34:41,391  INFO      Input after click: 'georgia haddad dds inc'
+2026-06-22 09:34:45,597  INFO        Files found for 'Georgia Haddad Dds Inc': 259
+2026-06-22 09:34:45,597  INFO      \n[10/101] Georgia Mountain Endocrinology
+2026-06-22 09:34:45,598  INFO      Processing suggestion: Georgia Mountain Endocrinology
+2026-06-22 09:34:55,451  INFO      Input after click: 'georgia mountain endocrinology'
+2026-06-22 09:34:59,678  INFO        Files found for 'Georgia Mountain Endocrinology': 256
+2026-06-22 09:34:59,678  INFO      \n[11/101] Georgia Oral & Facial Sur
+2026-06-22 09:34:59,679  INFO      Processing suggestion: Georgia Oral & Facial Sur
+2026-06-22 09:35:09,713  INFO      Input after click: 'georgia oral & facial sur'
+2026-06-22 09:35:14,501  INFO        Files found for 'Georgia Oral & Facial Sur': 269
+2026-06-22 09:35:14,501  INFO      \n[12/101] Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:35:14,502  INFO      Processing suggestion: Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:35:24,504  INFO      Input after click: 'georgia arrhythmia consultants, llc'
+2026-06-22 09:35:29,351  INFO        Files found for 'Georgia Arrhythmia Consultants, Llc': 256
+2026-06-22 09:35:29,352  INFO      \n[13/101] Georgia Title Source, Llc
+2026-06-22 09:35:29,352  INFO      Processing suggestion: Georgia Title Source, Llc
+2026-06-22 09:35:39,374  INFO      Input after click: 'georgia title source, llc'
+2026-06-22 09:35:43,585  INFO        Files found for 'Georgia Title Source, Llc': 256
+2026-06-22 09:35:43,587  INFO      \n[14/101] Georgia Legacy Law Group Llc
+2026-06-22 09:35:43,587  INFO      Processing suggestion: Georgia Legacy Law Group Llc
+2026-06-22 09:35:53,428  INFO      Input after click: 'georgia legacy law group llc'
+2026-06-22 09:35:57,673  INFO        Files found for 'Georgia Legacy Law Group Llc': 256
+2026-06-22 09:35:57,674  INFO      \n[15/101] Georgia Interfaith Power & Light Inc
+2026-06-22 09:35:57,674  INFO      Processing suggestion: Georgia Interfaith Power & Light Inc
+2026-06-22 09:36:07,541  INFO      Input after click: 'georgia interfaith power & light inc'
+2026-06-22 09:36:12,275  INFO        Files found for 'Georgia Interfaith Power & Light Inc': 442
+2026-06-22 09:36:12,276  INFO      \n[16/101] Georgia Mills Inc
+2026-06-22 09:36:12,276  INFO      Processing suggestion: Georgia Mills Inc
+2026-06-22 09:36:22,130  INFO      Input after click: 'georgia mills inc'
+2026-06-22 09:36:26,413  INFO        Files found for 'Georgia Mills Inc': 277
+2026-06-22 09:36:26,413  INFO      \n[17/101] Georgia Timber Llc
+2026-06-22 09:36:26,413  INFO      Processing suggestion: Georgia Timber Llc
+2026-06-22 09:36:36,258  INFO      Input after click: 'georgia timber llc'
+2026-06-22 09:36:40,419  INFO        Files found for 'Georgia Timber Llc': 256
+2026-06-22 09:36:40,420  INFO      \n[18/101] Georgia Stage Llc
+2026-06-22 09:36:40,420  INFO      Processing suggestion: Georgia Stage Llc
+2026-06-22 09:36:50,277  INFO      Input after click: 'georgia stage llc'
+2026-06-22 09:36:54,561  INFO        Files found for 'Georgia Stage Llc': 256
+2026-06-22 09:36:54,562  INFO      \n[19/101] Georgia Tapert Design Llc
+2026-06-22 09:36:54,562  INFO      Processing suggestion: Georgia Tapert Design Llc
+2026-06-22 09:37:04,400  INFO      Input after click: 'georgia tapert design llc'
+2026-06-22 09:37:08,766  INFO        Files found for 'Georgia Tapert Design Llc': 255
+2026-06-22 09:37:08,766  INFO      \n[20/101] Georgia Title Pawn Llc
+2026-06-22 09:37:08,766  INFO      Processing suggestion: Georgia Title Pawn Llc
+2026-06-22 09:37:18,739  INFO      Input after click: 'georgia title pawn llc'
+2026-06-22 09:37:22,890  INFO        Files found for 'Georgia Title Pawn Llc': 256
+2026-06-22 09:37:22,891  INFO      \n[21/101] Georgia Heirs Property
+2026-06-22 09:37:22,891  INFO      Processing suggestion: Georgia Heirs Property
+2026-06-22 09:37:32,771  INFO      Input after click: 'georgia heirs property'
+2026-06-22 09:37:36,992  INFO        Files found for 'Georgia Heirs Property': 256
+2026-06-22 09:37:36,993  INFO      \n[22/101] Georgia Nurses Association
+2026-06-22 09:37:36,993  INFO      Processing suggestion: Georgia Nurses Association
+2026-06-22 09:37:46,819  INFO      Input after click: 'georgia nurses association'
+2026-06-22 09:37:51,000  INFO        Files found for 'Georgia Nurses Association': 256
+2026-06-22 09:37:51,001  INFO      \n[23/101] Georgia Highway Contractors Association
+2026-06-22 09:37:51,001  INFO      Processing suggestion: Georgia Highway Contractors Association
+2026-06-22 09:38:00,817  INFO      Input after click: 'georgia highway contractors association'
+2026-06-22 09:38:05,363  INFO        Files found for 'Georgia Highway Contractors Association': 256
+2026-06-22 09:38:05,366  INFO      \n[24/101] Georgia Pharmacy Association
+2026-06-22 09:38:05,367  INFO      Processing suggestion: Georgia Pharmacy Association
+2026-06-22 09:38:15,239  INFO      Input after click: 'georgia pharmacy association'
+2026-06-22 09:38:19,995  INFO        Files found for 'Georgia Pharmacy Association': 269
+2026-06-22 09:38:19,996  INFO      \n[25/101] Georgia Motor Trucking Association
+2026-06-22 09:38:19,996  INFO      Processing suggestion: Georgia Motor Trucking Association
+2026-06-22 09:38:29,887  INFO      Input after click: 'georgia motor trucking association'
+2026-06-22 09:38:34,279  INFO        Files found for 'Georgia Motor Trucking Association': 256
+2026-06-22 09:38:34,279  INFO      \n[26/101] Georgia Forestry Association Inc
+2026-06-22 09:38:34,279  INFO      Processing suggestion: Georgia Forestry Association Inc
+2026-06-22 09:38:44,183  INFO      Input after click: 'georgia forestry association inc'
+2026-06-22 09:38:49,049  INFO        Files found for 'Georgia Forestry Association Inc': 256
+2026-06-22 09:38:49,050  INFO      \n[27/101] Georgia Optometric Associ
+2026-06-22 09:38:49,050  INFO      Processing suggestion: Georgia Optometric Associ
+2026-06-22 09:38:59,022  INFO      Input after click: 'georgia optometric associ'
+2026-06-22 09:39:02,388  ERROR     Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-22 09:39:33,957  INFO      Collected 101 suggestion(s) for 'Georgia'
+2026-06-22 09:39:33,958  INFO        - Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:39:33,958  INFO        - Georgia Climate Control Inc
+2026-06-22 09:39:33,958  INFO        - Georgia Premier Sonograph
+2026-06-22 09:39:33,958  INFO        - Georgia Machine Works, Inc
+2026-06-22 09:39:33,958  INFO        - Georgia Independent School Association
+2026-06-22 09:39:33,958  INFO        - Georgia Asylum And Immigration Network
+2026-06-22 09:39:33,958  INFO        - Georgia Mountain Food Bank
+2026-06-22 09:39:33,958  INFO        - Georgia Gwinnett College
+2026-06-22 09:39:33,958  INFO        - Georgia Haddad Dds Inc
+2026-06-22 09:39:33,958  INFO        - Georgia Mountain Endocrinology
+2026-06-22 09:39:33,958  INFO        - Georgia Oral & Facial Sur
+2026-06-22 09:39:33,959  INFO        - Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Title Source, Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Legacy Law Group Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Interfaith Power & Light Inc
+2026-06-22 09:39:33,959  INFO        - Georgia Mills Inc
+2026-06-22 09:39:33,959  INFO        - Georgia Timber Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Stage Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Tapert Design Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Title Pawn Llc
+2026-06-22 09:39:33,959  INFO        - Georgia Heirs Property
+2026-06-22 09:39:33,959  INFO        - Georgia Nurses Association
+2026-06-22 09:39:33,959  INFO        - Georgia Highway Contractors Association
+2026-06-22 09:39:33,959  INFO        - Georgia Pharmacy Association
+2026-06-22 09:39:33,960  INFO        - Georgia Motor Trucking Association
+2026-06-22 09:39:33,960  INFO        - Georgia Forestry Association Inc
+2026-06-22 09:39:33,960  INFO        - Georgia Optometric Associ
+2026-06-22 09:39:33,960  INFO        - Georgia Baptist Convention
+2026-06-22 09:39:33,960  INFO        - Georgia Historical Society
+2026-06-22 09:39:33,960  INFO        - Georgia Baptist Childrens Home
+2026-06-22 09:39:33,960  INFO        - Georgia Poultry Federation
+2026-06-22 09:39:33,960  INFO        - Georgia Hospital Association
+2026-06-22 09:39:33,960  INFO        - Georgia Crop Improvement
+2026-06-22 09:39:33,960  INFO        - Georgia Dental Association
+2026-06-22 09:39:33,961  INFO        - Georgia Tech Alumni Association Inc
+2026-06-22 09:39:33,961  INFO        - Georgia Farm Bureau
+2026-06-22 09:39:33,961  INFO        - Georgia United Credit Union
+2026-06-22 09:39:33,961  INFO        - Georgia Association Of Broadcasters
+2026-06-22 09:39:33,961  INFO        - Georgia Council For International Visitors
+2026-06-22 09:39:33,961  INFO        - Georgia Neurosurgical Institute Pc
+2026-06-22 09:39:33,961  INFO        - Georgia Highlands College
+2026-06-22 09:39:33,961  INFO        - Georgia Association Of Educators
+2026-06-22 09:39:33,961  INFO        - Georgia Automobile Dealers Association
+2026-06-22 09:39:33,962  INFO        - Georgia-Florida Harvestore, Inc.
+2026-06-22 09:39:33,962  INFO        - Georgia Cold Storage Co
+2026-06-22 09:39:33,962  INFO        - Georgia Economic Developers Association
+2026-06-22 09:39:33,962  INFO        - Georgia Highlands Medical Services Inc
+2026-06-22 09:39:33,962  INFO        - Georgia Surveyors Exchange Company Inc
+2026-06-22 09:39:33,962  INFO        - Georgia Commercial Construction,Inc.
+2026-06-22 09:39:33,962  INFO        - Georgia Arms Inc.
+2026-06-22 09:39:33,962  INFO        - Georgia Firefighters Burn
+2026-06-22 09:39:33,962  INFO        - Georgia Chamber Of Commerce
+2026-06-22 09:39:33,962  INFO        - Georgia Hi-Tech Fabricators Inc
+2026-06-22 09:39:33,963  INFO        - Georgia Rehabilitation Institute, Inc
+2026-06-22 09:39:33,963  INFO        - Georgia Exposition Manufacturing Corporation
+2026-06-22 09:39:33,963  INFO        - Georgia Neurological Surgery
+2026-06-22 09:39:33,963  INFO        - Georgia Center For Child Advocacy
+2026-06-22 09:39:33,963  INFO        - Georgia Hardwoods Inc
+2026-06-22 09:39:33,963  INFO        - Georgia Coaltion Against Domestic Violence
+2026-06-22 09:39:33,963  INFO        - Georgia Pump Inc
+2026-06-22 09:39:33,963  INFO        - Georgia Family Connection Partnership Inc
+2026-06-22 09:39:33,964  INFO        - Georgia Research Alliance
+2026-06-22 09:39:33,964  INFO        - Georgia Center For Opportunity
+2026-06-22 09:39:33,965  INFO        - Georgia Theatre Company
+2026-06-22 09:39:33,965  INFO        - Georgia Partnership For Excellence In Education
+2026-06-22 09:39:33,965  INFO        - Georgia Lottery Corporation
+2026-06-22 09:39:33,966  INFO        - Georgia Mountain Hospice
+2026-06-22 09:39:33,966  INFO        - Georgia Computer Inc
+2026-06-22 09:39:33,966  INFO        - Georgia Nephrology
+2026-06-22 09:39:33,966  INFO        - Georgia Bankers Association Insurance Trust
+2026-06-22 09:39:33,966  INFO        - Georgia Storefronts Inc
+2026-06-22 09:39:33,966  INFO        - Georgia River Network
+2026-06-22 09:39:33,966  INFO        - Georgia Senior Living Ass
+2026-06-22 09:39:33,966  INFO        - Georgia Health Initiative
+2026-06-22 09:39:33,966  INFO        - Georgia Hap Administrators,Inc
+2026-06-22 09:39:33,967  INFO        - Georgia Gunite & Pool Co.
+2026-06-22 09:39:33,967  INFO        - Georgia Heart Physicians
+2026-06-22 09:39:33,967  INFO        - Georgia Intermodal Servic
+2026-06-22 09:39:33,967  INFO        - Georgia Infectious Diseases, Pc
+2026-06-22 09:39:33,967  INFO        - Georgia High School Association
+2026-06-22 09:39:33,967  INFO        - Georgia Southwestern State Univ
+2026-06-22 09:39:33,967  INFO        - Georgia Institute Of Technology
+2026-06-22 09:39:33,967  INFO        - Georgia State University
+2026-06-22 09:39:33,967  INFO        - Georgia Southern University
+2026-06-22 09:39:33,968  INFO        - Georgia College & State Univ
+2026-06-22 09:39:33,968  INFO        - Georgia Psychological Association
+2026-06-22 09:39:33,968  INFO        - Georgia Underwriting Asso
+2026-06-22 09:39:33,968  INFO        - Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 09:39:33,968  INFO        - Georgia Air Specialists
+2026-06-22 09:39:33,968  INFO        - Georgia Electric Associates Inc
+2026-06-22 09:39:33,968  INFO        - Georgia Medical Staffing
+2026-06-22 09:39:33,968  INFO        - Georgia Vision Institute
+2026-06-22 09:39:33,968  INFO        - Georgia Logistics Group
+2026-06-22 09:39:33,969  INFO        - Georgia Accounting Services Llc
+2026-06-22 09:39:33,969  INFO        - Georgia Property Kings Llc
+2026-06-22 09:39:33,969  INFO        - Georgia Auto Law
+2026-06-22 09:39:33,969  INFO        - Georgia Resilience And Opportunity Fund Inc
+2026-06-22 09:39:33,969  INFO        - Georgia Psychiatric Center Llc
+2026-06-22 09:39:33,969  INFO        - Georgia Empire Contracting Llc
+2026-06-22 09:39:33,969  INFO        - Georgia Pacific
+2026-06-22 09:39:33,969  INFO        - Georgia A Hall Behavior C
+2026-06-22 09:39:33,969  INFO      
+[1/101] Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:39:33,969  INFO      Processing suggestion: Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:39:43,818  INFO      Input after click: 'georgia hispanic chamber of commerce'
+2026-06-22 09:39:48,174  INFO        Files found for 'Georgia Hispanic Chamber Of Commerce': 256
+2026-06-22 09:39:48,175  INFO        Unique files to download now: 256
+2026-06-22 09:39:59,899  INFO          ✓ 2026-06_020_02I0_in-network-rates_1_of_2.json.gz
+2026-06-22 09:40:07,789  INFO          ✓ 2026-06_020_02I0_in-network-rates_2_of_2.json.gz
+2026-06-22 09:42:01,503  INFO          ✓ 2026-06_030_03J0_in-network-rates.json.gz
+2026-06-22 09:53:21,906  INFO      Collected 101 suggestion(s) for 'Georgia'
+2026-06-22 09:53:21,906  INFO        - Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:53:21,906  INFO        - Georgia Climate Control Inc
+2026-06-22 09:53:21,907  INFO        - Georgia Premier Sonograph
+2026-06-22 09:53:21,907  INFO        - Georgia Machine Works, Inc
+2026-06-22 09:53:21,907  INFO        - Georgia Independent School Association
+2026-06-22 09:53:21,907  INFO        - Georgia Asylum And Immigration Network
+2026-06-22 09:53:21,907  INFO        - Georgia Mountain Food Bank
+2026-06-22 09:53:21,907  INFO        - Georgia Gwinnett College
+2026-06-22 09:53:21,907  INFO        - Georgia Haddad Dds Inc
+2026-06-22 09:53:21,908  INFO        - Georgia Mountain Endocrinology
+2026-06-22 09:53:21,908  INFO        - Georgia Oral & Facial Sur
+2026-06-22 09:53:21,908  INFO        - Georgia Arrhythmia Consultants, Llc
+2026-06-22 09:53:21,908  INFO        - Georgia Title Source, Llc
+2026-06-22 09:53:21,908  INFO        - Georgia Legacy Law Group Llc
+2026-06-22 09:53:21,908  INFO        - Georgia Interfaith Power & Light Inc
+2026-06-22 09:53:21,908  INFO        - Georgia Mills Inc
+2026-06-22 09:53:21,908  INFO        - Georgia Timber Llc
+2026-06-22 09:53:21,908  INFO        - Georgia Stage Llc
+2026-06-22 09:53:21,908  INFO        - Georgia Tapert Design Llc
+2026-06-22 09:53:21,909  INFO        - Georgia Title Pawn Llc
+2026-06-22 09:53:21,909  INFO        - Georgia Heirs Property
+2026-06-22 09:53:21,909  INFO        - Georgia Nurses Association
+2026-06-22 09:53:21,909  INFO        - Georgia Highway Contractors Association
+2026-06-22 09:53:21,909  INFO        - Georgia Pharmacy Association
+2026-06-22 09:53:21,909  INFO        - Georgia Motor Trucking Association
+2026-06-22 09:53:21,909  INFO        - Georgia Forestry Association Inc
+2026-06-22 09:53:21,909  INFO        - Georgia Optometric Associ
+2026-06-22 09:53:21,909  INFO        - Georgia Baptist Convention
+2026-06-22 09:53:21,910  INFO        - Georgia Historical Society
+2026-06-22 09:53:21,910  INFO        - Georgia Baptist Childrens Home
+2026-06-22 09:53:21,910  INFO        - Georgia Poultry Federation
+2026-06-22 09:53:21,910  INFO        - Georgia Hospital Association
+2026-06-22 09:53:21,910  INFO        - Georgia Crop Improvement
+2026-06-22 09:53:21,910  INFO        - Georgia Dental Association
+2026-06-22 09:53:21,910  INFO        - Georgia Tech Alumni Association Inc
+2026-06-22 09:53:21,910  INFO        - Georgia Farm Bureau
+2026-06-22 09:53:21,910  INFO        - Georgia United Credit Union
+2026-06-22 09:53:21,910  INFO        - Georgia Association Of Broadcasters
+2026-06-22 09:53:21,910  INFO        - Georgia Council For International Visitors
+2026-06-22 09:53:21,911  INFO        - Georgia Neurosurgical Institute Pc
+2026-06-22 09:53:21,911  INFO        - Georgia Highlands College
+2026-06-22 09:53:21,911  INFO        - Georgia Association Of Educators
+2026-06-22 09:53:21,911  INFO        - Georgia Automobile Dealers Association
+2026-06-22 09:53:21,911  INFO        - Georgia-Florida Harvestore, Inc.
+2026-06-22 09:53:21,911  INFO        - Georgia Cold Storage Co
+2026-06-22 09:53:21,911  INFO        - Georgia Economic Developers Association
+2026-06-22 09:53:21,911  INFO        - Georgia Highlands Medical Services Inc
+2026-06-22 09:53:21,911  INFO        - Georgia Surveyors Exchange Company Inc
+2026-06-22 09:53:21,912  INFO        - Georgia Commercial Construction,Inc.
+2026-06-22 09:53:21,913  INFO        - Georgia Arms Inc.
+2026-06-22 09:53:21,913  INFO        - Georgia Firefighters Burn
+2026-06-22 09:53:21,913  INFO        - Georgia Chamber Of Commerce
+2026-06-22 09:53:21,913  INFO        - Georgia Hi-Tech Fabricators Inc
+2026-06-22 09:53:21,914  INFO        - Georgia Rehabilitation Institute, Inc
+2026-06-22 09:53:21,915  INFO        - Georgia Exposition Manufacturing Corporation
+2026-06-22 09:53:21,915  INFO        - Georgia Neurological Surgery
+2026-06-22 09:53:21,915  INFO        - Georgia Center For Child Advocacy
+2026-06-22 09:53:21,915  INFO        - Georgia Hardwoods Inc
+2026-06-22 09:53:21,915  INFO        - Georgia Coaltion Against Domestic Violence
+2026-06-22 09:53:21,915  INFO        - Georgia Pump Inc
+2026-06-22 09:53:21,915  INFO        - Georgia Family Connection Partnership Inc
+2026-06-22 09:53:21,916  INFO        - Georgia Research Alliance
+2026-06-22 09:53:21,916  INFO        - Georgia Center For Opportunity
+2026-06-22 09:53:21,916  INFO        - Georgia Theatre Company
+2026-06-22 09:53:21,916  INFO        - Georgia Partnership For Excellence In Education
+2026-06-22 09:53:21,916  INFO        - Georgia Lottery Corporation
+2026-06-22 09:53:21,916  INFO        - Georgia Mountain Hospice
+2026-06-22 09:53:21,916  INFO        - Georgia Computer Inc
+2026-06-22 09:53:21,917  INFO        - Georgia Nephrology
+2026-06-22 09:53:21,917  INFO        - Georgia Bankers Association Insurance Trust
+2026-06-22 09:53:21,917  INFO        - Georgia Storefronts Inc
+2026-06-22 09:53:21,917  INFO        - Georgia River Network
+2026-06-22 09:53:21,917  INFO        - Georgia Senior Living Ass
+2026-06-22 09:53:21,917  INFO        - Georgia Health Initiative
+2026-06-22 09:53:21,918  INFO        - Georgia Hap Administrators,Inc
+2026-06-22 09:53:21,918  INFO        - Georgia Gunite & Pool Co.
+2026-06-22 09:53:21,918  INFO        - Georgia Heart Physicians
+2026-06-22 09:53:21,918  INFO        - Georgia Intermodal Servic
+2026-06-22 09:53:21,920  INFO        - Georgia Infectious Diseases, Pc
+2026-06-22 09:53:21,920  INFO        - Georgia High School Association
+2026-06-22 09:53:21,920  INFO        - Georgia Southwestern State Univ
+2026-06-22 09:53:21,921  INFO        - Georgia Institute Of Technology
+2026-06-22 09:53:21,923  INFO        - Georgia State University
+2026-06-22 09:53:21,923  INFO        - Georgia Southern University
+2026-06-22 09:53:21,923  INFO        - Georgia College & State Univ
+2026-06-22 09:53:21,923  INFO        - Georgia Psychological Association
+2026-06-22 09:53:21,923  INFO        - Georgia Underwriting Asso
+2026-06-22 09:53:21,923  INFO        - Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 09:53:21,924  INFO        - Georgia Air Specialists
+2026-06-22 09:53:21,924  INFO        - Georgia Electric Associates Inc
+2026-06-22 09:53:21,924  INFO        - Georgia Medical Staffing
+2026-06-22 09:53:21,924  INFO        - Georgia Vision Institute
+2026-06-22 09:53:21,926  INFO        - Georgia Logistics Group
+2026-06-22 09:53:21,926  INFO        - Georgia Accounting Services Llc
+2026-06-22 09:53:21,926  INFO        - Georgia Property Kings Llc
+2026-06-22 09:53:21,926  INFO        - Georgia Auto Law
+2026-06-22 09:53:21,926  INFO        - Georgia Resilience And Opportunity Fund Inc
+2026-06-22 09:53:21,926  INFO        - Georgia Psychiatric Center Llc
+2026-06-22 09:53:21,926  INFO        - Georgia Empire Contracting Llc
+2026-06-22 09:53:21,926  INFO        - Georgia Pacific
+2026-06-22 09:53:21,926  INFO        - Georgia A Hall Behavior C
+2026-06-22 09:53:21,927  INFO      
+[1/101] Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:53:21,927  INFO      Processing suggestion: Georgia Hispanic Chamber Of Commerce
+2026-06-22 09:53:31,827  INFO      Input after click: 'georgia hispanic chamber of commerce'
+2026-06-22 09:53:36,088  INFO        Files found for 'Georgia Hispanic Chamber Of Commerce': 256
+2026-06-22 09:53:36,089  INFO        Unique files to download now: 256
+2026-06-22 09:53:36,091  INFO          SKIP (exists): 2026-06_020_02I0_in-network-rates_1_of_2.json.gz
+2026-06-22 09:53:36,092  INFO          SKIP (exists): 2026-06_020_02I0_in-network-rates_2_of_2.json.gz
+2026-06-22 09:53:36,094  INFO          SKIP (exists): 2026-06_030_03J0_in-network-rates.json.gz
+2026-06-22 10:05:36,780  INFO      Collected 101 suggestion(s) for 'Georgia'
+2026-06-22 10:05:36,780  INFO        - Georgia Hispanic Chamber Of Commerce
+2026-06-22 10:05:36,781  INFO        - Georgia Climate Control Inc
+2026-06-22 10:05:36,781  INFO        - Georgia Premier Sonograph
+2026-06-22 10:05:36,781  INFO        - Georgia Machine Works, Inc
+2026-06-22 10:05:36,781  INFO        - Georgia Independent School Association
+2026-06-22 10:05:36,781  INFO        - Georgia Asylum And Immigration Network
+2026-06-22 10:05:36,781  INFO        - Georgia Mountain Food Bank
+2026-06-22 10:05:36,781  INFO        - Georgia Gwinnett College
+2026-06-22 10:05:36,781  INFO        - Georgia Haddad Dds Inc
+2026-06-22 10:05:36,781  INFO        - Georgia Mountain Endocrinology
+2026-06-22 10:05:36,782  INFO        - Georgia Oral & Facial Sur
+2026-06-22 10:05:36,782  INFO        - Georgia Arrhythmia Consultants, Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Title Source, Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Legacy Law Group Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Interfaith Power & Light Inc
+2026-06-22 10:05:36,782  INFO        - Georgia Mills Inc
+2026-06-22 10:05:36,782  INFO        - Georgia Timber Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Stage Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Tapert Design Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Title Pawn Llc
+2026-06-22 10:05:36,782  INFO        - Georgia Heirs Property
+2026-06-22 10:05:36,782  INFO        - Georgia Nurses Association
+2026-06-22 10:05:36,782  INFO        - Georgia Highway Contractors Association
+2026-06-22 10:05:36,782  INFO        - Georgia Pharmacy Association
+2026-06-22 10:05:36,783  INFO        - Georgia Motor Trucking Association
+2026-06-22 10:05:36,783  INFO        - Georgia Forestry Association Inc
+2026-06-22 10:05:36,783  INFO        - Georgia Optometric Associ
+2026-06-22 10:05:36,783  INFO        - Georgia Baptist Convention
+2026-06-22 10:05:36,783  INFO        - Georgia Historical Society
+2026-06-22 10:05:36,783  INFO        - Georgia Baptist Childrens Home
+2026-06-22 10:05:36,783  INFO        - Georgia Poultry Federation
+2026-06-22 10:05:36,783  INFO        - Georgia Hospital Association
+2026-06-22 10:05:36,783  INFO        - Georgia Crop Improvement
+2026-06-22 10:05:36,784  INFO        - Georgia Dental Association
+2026-06-22 10:05:36,784  INFO        - Georgia Tech Alumni Association Inc
+2026-06-22 10:05:36,784  INFO        - Georgia Farm Bureau
+2026-06-22 10:05:36,785  INFO        - Georgia United Credit Union
+2026-06-22 10:05:36,785  INFO        - Georgia Association Of Broadcasters
+2026-06-22 10:05:36,785  INFO        - Georgia Council For International Visitors
+2026-06-22 10:05:36,786  INFO        - Georgia Neurosurgical Institute Pc
+2026-06-22 10:05:36,786  INFO        - Georgia Highlands College
+2026-06-22 10:05:36,786  INFO        - Georgia Association Of Educators
+2026-06-22 10:05:36,787  INFO        - Georgia Automobile Dealers Association
+2026-06-22 10:05:36,787  INFO        - Georgia-Florida Harvestore, Inc.
+2026-06-22 10:05:36,787  INFO        - Georgia Cold Storage Co
+2026-06-22 10:05:36,787  INFO        - Georgia Economic Developers Association
+2026-06-22 10:05:36,787  INFO        - Georgia Highlands Medical Services Inc
+2026-06-22 10:05:36,787  INFO        - Georgia Surveyors Exchange Company Inc
+2026-06-22 10:05:36,787  INFO        - Georgia Commercial Construction,Inc.
+2026-06-22 10:05:36,787  INFO        - Georgia Arms Inc.
+2026-06-22 10:05:36,787  INFO        - Georgia Firefighters Burn
+2026-06-22 10:05:36,788  INFO        - Georgia Chamber Of Commerce
+2026-06-22 10:05:36,788  INFO        - Georgia Hi-Tech Fabricators Inc
+2026-06-22 10:05:36,789  INFO        - Georgia Rehabilitation Institute, Inc
+2026-06-22 10:05:36,789  INFO        - Georgia Exposition Manufacturing Corporation
+2026-06-22 10:05:36,789  INFO        - Georgia Neurological Surgery
+2026-06-22 10:05:36,789  INFO        - Georgia Center For Child Advocacy
+2026-06-22 10:05:36,789  INFO        - Georgia Hardwoods Inc
+2026-06-22 10:05:36,789  INFO        - Georgia Coaltion Against Domestic Violence
+2026-06-22 10:05:36,789  INFO        - Georgia Pump Inc
+2026-06-22 10:05:36,789  INFO        - Georgia Family Connection Partnership Inc
+2026-06-22 10:05:36,790  INFO        - Georgia Research Alliance
+2026-06-22 10:05:36,790  INFO        - Georgia Center For Opportunity
+2026-06-22 10:05:36,790  INFO        - Georgia Theatre Company
+2026-06-22 10:05:36,790  INFO        - Georgia Partnership For Excellence In Education
+2026-06-22 10:05:36,790  INFO        - Georgia Lottery Corporation
+2026-06-22 10:05:36,790  INFO        - Georgia Mountain Hospice
+2026-06-22 10:05:36,790  INFO        - Georgia Computer Inc
+2026-06-22 10:05:36,790  INFO        - Georgia Nephrology
+2026-06-22 10:05:36,791  INFO        - Georgia Bankers Association Insurance Trust
+2026-06-22 10:05:36,791  INFO        - Georgia Storefronts Inc
+2026-06-22 10:05:36,791  INFO        - Georgia River Network
+2026-06-22 10:05:36,791  INFO        - Georgia Senior Living Ass
+2026-06-22 10:05:36,791  INFO        - Georgia Health Initiative
+2026-06-22 10:05:36,792  INFO        - Georgia Hap Administrators,Inc
+2026-06-22 10:05:36,792  INFO        - Georgia Gunite & Pool Co.
+2026-06-22 10:05:36,792  INFO        - Georgia Heart Physicians
+2026-06-22 10:05:36,792  INFO        - Georgia Intermodal Servic
+2026-06-22 10:05:36,792  INFO        - Georgia Infectious Diseases, Pc
+2026-06-22 10:05:36,792  INFO        - Georgia High School Association
+2026-06-22 10:05:36,792  INFO        - Georgia Southwestern State Univ
+2026-06-22 10:05:36,792  INFO        - Georgia Institute Of Technology
+2026-06-22 10:05:36,792  INFO        - Georgia State University
+2026-06-22 10:05:36,792  INFO        - Georgia Southern University
+2026-06-22 10:05:36,792  INFO        - Georgia College & State Univ
+2026-06-22 10:05:36,792  INFO        - Georgia Psychological Association
+2026-06-22 10:05:36,793  INFO        - Georgia Underwriting Asso
+2026-06-22 10:05:36,793  INFO        - Georgia Assoc. For Primary Health Care, Inc.
+2026-06-22 10:05:36,793  INFO        - Georgia Air Specialists
+2026-06-22 10:05:36,793  INFO        - Georgia Electric Associates Inc
+2026-06-22 10:05:36,794  INFO        - Georgia Medical Staffing
+2026-06-22 10:05:36,794  INFO        - Georgia Vision Institute
+2026-06-22 10:05:36,795  INFO        - Georgia Logistics Group
+2026-06-22 10:05:36,795  INFO        - Georgia Accounting Services Llc
+2026-06-22 10:05:36,795  INFO        - Georgia Property Kings Llc
+2026-06-22 10:05:36,796  INFO        - Georgia Auto Law
+2026-06-22 10:05:36,797  INFO        - Georgia Resilience And Opportunity Fund Inc
+2026-06-22 10:05:36,797  INFO        - Georgia Psychiatric Center Llc
+2026-06-22 10:05:36,798  INFO        - Georgia Empire Contracting Llc
+2026-06-22 10:05:36,798  INFO        - Georgia Pacific
+2026-06-22 10:05:36,798  INFO        - Georgia A Hall Behavior C
+2026-06-22 10:05:36,798  INFO      
+[1/101] Georgia Hispanic Chamber Of Commerce
+2026-06-22 10:05:36,799  INFO      Processing suggestion: Georgia Hispanic Chamber Of Commerce
+2026-06-22 10:05:46,651  INFO      Input after click: 'georgia hispanic chamber of commerce'
+2026-06-22 10:05:51,014  INFO        Files found for 'Georgia Hispanic Chamber Of Commerce': 256
+2026-06-22 10:05:51,014  INFO        Unique files to download now: 256
+2026-06-22 10:05:51,016  INFO          SKIP (exists): 2026-06_020_02I0_in-network-rates_1_of_2.json.gz
+2026-06-22 10:05:51,016  INFO          SKIP (exists): 2026-06_020_02I0_in-network-rates_2_of_2.json.gz
+2026-06-22 10:05:51,019  INFO          SKIP (exists): 2026-06_030_03J0_in-network-rates.json.gz
+2026-06-22 10:22:59,104  INFO          ✓ 2026-06_040_05C0_in-network-rates_4_of_5.json.gz
+2026-06-22 10:24:29,244  INFO          ✓ 2026-06_040_05C0_in-network-rates_2_of_5.json.gz
+2026-06-22 10:24:41,721  INFO          ✓ 2026-06_040_05C0_in-network-rates_5_of_5.json.gz
+2026-06-22 10:26:55,143  INFO          ✓ 2026-06_040_05C0_in-network-rates_3_of_5.json.gz
+2026-06-22 10:27:34,679  INFO          ✓ 2026-06_051_06B0_in-network-rates_2_of_5.json.gz
+2026-06-22 10:27:38,777  INFO          ✓ 2026-06_051_06B0_in-network-rates_4_of_5.json.gz
+2026-06-22 10:28:40,939  INFO          ✓ 2026-06_051_06B0_in-network-rates_5_of_5.json.gz
+2026-06-22 10:31:43,639  INFO          ✓ 2026-06_051_06B0_in-network-rates_1_of_5.json.gz
+2026-06-22 10:32:30,356  INFO          ✓ 2026-06_051_06B0_in-network-rates_3_of_5.json.gz
+2026-06-22 10:32:32,630  INFO          ✓ 2026-06_070_09B0_in-network-rates_01_of_02.json.gz
+2026-06-22 10:32:35,215  INFO          ✓ 2026-06_070_09B0_in-network-rates_02_of_02.json.gz
+2026-06-22 10:32:53,420  INFO          ✓ 2026-06_062_07B0_in-network-rates_2_of_2.json.gz
+2026-06-22 10:33:26,379  INFO          ✓ 2026-06_110_14B0_in-network-rates.json.gz
+2026-06-22 10:35:05,809  INFO          ✓ 2026-06_121_16B0_in-network-rates.json.gz
+2026-06-22 10:35:07,258  INFO          ✓ 2026-06_040_05C0_in-network-rates_1_of_5.json.gz
+2026-06-22 10:44:52,926  INFO          ✓ 2026-06_131_17B0_in-network-rates_10_of_21.json.gz
+2026-06-22 10:44:53,302  INFO          ✓ 2026-06_131_17B0_in-network-rates_11_of_21.json.gz
+2026-06-22 10:49:30,419  INFO          ✓ 2026-06_131_17B0_in-network-rates_12_of_21.json.gz
+2026-06-22 10:56:56,535  INFO          ✓ 2026-06_131_17B0_in-network-rates_13_of_21.json.gz
+2026-06-22 10:57:53,180  INFO          ✓ 2026-06_131_17B0_in-network-rates_14_of_21.json.gz
+2026-06-22 11:01:42,159  INFO          ✓ 2026-06_062_07B0_in-network-rates_1_of_2.json.gz
+2026-06-22 11:02:10,912  INFO          ✓ 2026-06_131_17B0_in-network-rates_15_of_21.json.gz
+2026-06-22 11:08:03,684  INFO          ✓ 2026-06_131_17B0_in-network-rates_17_of_21.json.gz
+2026-06-22 11:11:53,499  INFO          ✓ 2026-06_131_17B0_in-network-rates_16_of_21.json.gz
+2026-06-22 11:18:36,879  INFO          ✓ 2026-06_131_17B0_in-network-rates_19_of_21.json.gz
+2026-06-22 11:18:51,711  INFO          ✓ 2026-06_131_17B0_in-network-rates_18_of_21.json.gz
+2026-06-22 11:20:58,360  INFO          ✓ 2026-06_131_17B0_in-network-rates_21_of_21.json.gz
+2026-06-22 11:26:28,653  INFO          ✓ 2026-06_131_17B0_in-network-rates_1_of_21.json.gz
+2026-06-22 11:31:20,252  INFO          ✓ 2026-06_131_17B0_in-network-rates_20_of_21.json.gz
+2026-06-22 11:37:11,431  INFO          ✓ 2026-06_131_17B0_in-network-rates_2_of_21.json.gz
+2026-06-22 11:39:22,840  INFO          ✓ 2026-06_131_17B0_in-network-rates_3_of_21.json.gz
+2026-06-22 11:45:02,956  INFO          ✓ 2026-06_131_17B0_in-network-rates_4_of_21.json.gz
+2026-06-22 11:47:04,179  INFO          ✓ 2026-06_131_17B0_in-network-rates_5_of_21.json.gz
+2026-06-22 11:49:35,314  INFO          ✓ 2026-06_131_17B0_in-network-rates_6_of_21.json.gz
+2026-06-22 11:49:41,074  INFO          ✓ 2026-06_140_13B0_in-network-rates.json.gz
+2026-06-22 11:49:58,353  INFO          ✓ 2026-06_150_20B0_in-network-rates.json.gz
+2026-06-22 11:50:19,428  INFO          ✓ 2026-06_170_22B0_in-network-rates.json.gz
+2026-06-22 11:55:51,632  INFO          ✓ 2026-06_131_17B0_in-network-rates_7_of_21.json.gz
+2026-06-22 11:58:59,670  INFO          ✓ 2026-06_131_17B0_in-network-rates_9_of_21.json.gz
+2026-06-22 12:00:07,238  INFO          ✓ 2026-06_182_25E0_in-network-rates_2_of_2.json.gz
+2026-06-22 12:00:26,264  INFO          ✓ 2026-06_230_30B0_in-network-rates.json.gz
+2026-06-22 12:00:30,622  INFO          ✓ 2026-06_250_31H0_in-network-rates.json.gz
+2026-06-22 12:00:38,828  INFO          ✓ 2026-06_240_28J0_in-network-rates.json.gz
+2026-06-22 12:01:39,653  INFO          ✓ 2026-06_182_25E0_in-network-rates_1_of_2.json.gz
+2026-06-22 12:02:38,719  INFO          ✓ 2026-06_131_17B0_in-network-rates_8_of_21.json.gz
+2026-06-22 12:29:45,417  INFO          ✓ 2026-06_254_39B0_in-network-rates_2_of_5.json.gz
+2026-06-22 12:31:07,184  INFO          ✓ 2026-06_254_39B0_in-network-rates_5_of_5.json.gz
+2026-06-22 12:31:13,416  INFO          ✓ 2026-06_260_34P0_in-network-rates.json.gz
+2026-06-22 12:31:47,556  INFO          ✓ 2026-06_254_39B0_in-network-rates_3_of_5.json.gz
+2026-06-22 12:31:49,723  INFO          ✓ 2026-06_254_39B0_in-network-rates_1_of_5.json.gz
+2026-06-22 12:31:52,882  INFO          ✓ 2026-06_254_39B0_in-network-rates_4_of_5.json.gz
+2026-06-22 12:32:25,998  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_3_of_3.json.gz?&Expires=1784642454&Signature=HiR3c0A0VwMiGbvvQVzeQ1c9nn5jjfd3-2MtAhNwOSpWKsEoOpIkAJt-EZNdugha3cRjxexc~Z88NKIvDfJr2YVDoMzmTxl5w-zx7cXMjkSh-HWSh~ZB7X2kdeZLcmoZYjHKTGDo~vsdwqw0oxvk-FNj3h1OkViblwxNI5m20r9-pAYcshZLpi-KPgRjVI3GgoD~6pGYV-gVW2WnVmQIWt2464Ae9EjJoTHGv0-4KQOG~cY2u9XTWBFdb5tGLvKJs3Eb4Oj2lBuNJVlHOFuFKIhJEnwbtdJ7ILNGwNeenZpBijcGr~ypY2ebe6JMszppiIfFakniCLik~yS1yq6CGA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:32:26,029  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_1_of_4.json.gz?&Expires=1784642454&Signature=xCNc3h1CGYPtQ2ziHwGgqM9vAcO1Ck1D3J1TBzTC4LxHv7pQWLFBoyI7IxGJTPffxi~awWnI5O1TLbxMSAiuYvSlYsK825Umrf4hY6Lo1U3UYNb9WqBzfgThEyaa8WOGqP9L0WncqgHYjBFrxrqgOJhoaWwIlymjmu3-oJ3PTyVAB9tylCXsm8N54TfMfkLpxZINBxXrv9xroktWVBwIuaD9qejz9kVkbnnpt~EuMk~CAG5H2lJSIT8d917tr-uQgZn-jX5H1sqYXOD6Y5SPGe32SJthnceAh3t5j9TIlBd~bsWeCp52hvRyQlcnz-5nXcBcCh0ehng-oBEHP7zW8A__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:32:26,081  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_2_of_3.json.gz?&Expires=1784642454&Signature=lWpyMLc0VKuR1kYNVG72EQkQy08m01fFHPn1-pZJxB3Ftf8f3GcH13b3ZY60J91byro~VGwy~4rr1dkR8uBPiF5DCpmXbpp1Y34vmt7usHzJJR1~ralBTfbqpy3o-IiD9A3blaahKnmueOift3qSeySOAMvYhcZdab3MVA6V-bO-fpnfSMInpwFT0ZLwECK~8geIm5~gsPYpBn~xk6cUNBHpjvHyDCKwS-HeQYCf-S7xL5tc94MomgQ3gDTLqd0NT7yWiljuqDM9jjMGw9iKvLi6buNjhOroYvOo3c8XunTIKHUpyUQqjBEI2rswcLBDuDI2j8jUzeB~F0lR1UlQ-w__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:33:22,991  INFO          ✓ 2026-06_266_38B0_in-network-rates_3_of_3.json.gz
+2026-06-22 12:33:39,756  INFO          ✓ 2026-06_266_38B0_in-network-rates_2_of_3.json.gz
+2026-06-22 12:34:17,802  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_2_of_4.json.gz?&Expires=1784642454&Signature=TZNjl6WALkTxjKbOtzFSOZ-T2bfpVrK~Iuulda2WIUpiQS6~9k2BGV3mDiWNUZ6o1JKNatcjBzHPbPy6iZrqG9C6iMCJthGqmifLIhgbSmJCn7Vrbejyad13LWXsEYEI-72uAw1MrnkUx2o1-XvVdGSZmNe999cgQoOrMQgeMuTjVBOtVRrg0nR74zy5FIwAI6kLv3llhrrkzOOO5YLP7Qw9fNbfVUZEZdxkT8Z4phWCi4plsHzpKghq649DcoK1tMcIeEm2aA2QGbFPmSwknsLomk1N1QGO~0n1STDjzl~QRhS9Xn3kFAJTUd2CKkvISuhZXveblbimqQL52xKSYA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:34:17,808  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_3_of_4.json.gz?&Expires=1784642454&Signature=yfxi2m3IR55B~rdrNNwH7Pniamj-C~417yLHJJQRly2~0SVETmOAdiWlsqYd0rgTr-8rTv08UmlzUmeZgVntezHA1n-DrOP7lEXXMuSj2Q6QXo4A1Ec48FFHQZQfpBopmZIOlaQaGDL7c9inZ8-X-0ulRGG3YK03OKU3x7BfOUh4s-a-5aoeGj2qHQjDSsT5sNWzk~XsAnHQLOJz6sUlTkyO6ESNVEWlLGHBWf9lH83AKU-owOFA5cLkCmh4IBUfkEV~RH5hWlIU99rrJ~P5JjTv~kjLwdOaKegfg5psVZGUGXXk6t85tsBp3XVpzUACLIIOS0iUNHRITNxxwD~eEA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:34:17,904  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_1_of_3.json.gz?&Expires=1784642454&Signature=dJ9oSh6zwHdxCzsQFtVQF3PmMb4htIaP02LIffI1zTWlm91lUXBD2ZkjCPd~p3w2qQX1WA~SkkPX-tm1xCPopzDmM6Fyd9LP2VpEZqA2KpuY~~jbRyr3FlfrQyVkWL7IRKjslaMj22Pz7VuNpFemLsJ31l5xWbh3YbaiQ8rQ58IEIdxZZNVdD2IGBDCjvBqEBAk2-Rf1FL6y-M8OO9U0dTNs7EawyqH1OoNFSG0EDTCZ6dMrRhTDx7ID8s-5FaG11g1YFeoUaaPp4ZwRFkqGkdO4XEnBdzTZjoFv67Rpol2uMsMSX-I1EAmcdQ~AZAFQIx9jJiSbolaqwN7DN5Zz4g__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:34:17,922  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_1_of_4.json.gz?&Expires=1784642454&Signature=xCNc3h1CGYPtQ2ziHwGgqM9vAcO1Ck1D3J1TBzTC4LxHv7pQWLFBoyI7IxGJTPffxi~awWnI5O1TLbxMSAiuYvSlYsK825Umrf4hY6Lo1U3UYNb9WqBzfgThEyaa8WOGqP9L0WncqgHYjBFrxrqgOJhoaWwIlymjmu3-oJ3PTyVAB9tylCXsm8N54TfMfkLpxZINBxXrv9xroktWVBwIuaD9qejz9kVkbnnpt~EuMk~CAG5H2lJSIT8d917tr-uQgZn-jX5H1sqYXOD6Y5SPGe32SJthnceAh3t5j9TIlBd~bsWeCp52hvRyQlcnz-5nXcBcCh0ehng-oBEHP7zW8A__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:36:08,405  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_3_of_4.json.gz?&Expires=1784642454&Signature=yfxi2m3IR55B~rdrNNwH7Pniamj-C~417yLHJJQRly2~0SVETmOAdiWlsqYd0rgTr-8rTv08UmlzUmeZgVntezHA1n-DrOP7lEXXMuSj2Q6QXo4A1Ec48FFHQZQfpBopmZIOlaQaGDL7c9inZ8-X-0ulRGG3YK03OKU3x7BfOUh4s-a-5aoeGj2qHQjDSsT5sNWzk~XsAnHQLOJz6sUlTkyO6ESNVEWlLGHBWf9lH83AKU-owOFA5cLkCmh4IBUfkEV~RH5hWlIU99rrJ~P5JjTv~kjLwdOaKegfg5psVZGUGXXk6t85tsBp3XVpzUACLIIOS0iUNHRITNxxwD~eEA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:36:08,489  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_2_of_4.json.gz?&Expires=1784642454&Signature=TZNjl6WALkTxjKbOtzFSOZ-T2bfpVrK~Iuulda2WIUpiQS6~9k2BGV3mDiWNUZ6o1JKNatcjBzHPbPy6iZrqG9C6iMCJthGqmifLIhgbSmJCn7Vrbejyad13LWXsEYEI-72uAw1MrnkUx2o1-XvVdGSZmNe999cgQoOrMQgeMuTjVBOtVRrg0nR74zy5FIwAI6kLv3llhrrkzOOO5YLP7Qw9fNbfVUZEZdxkT8Z4phWCi4plsHzpKghq649DcoK1tMcIeEm2aA2QGbFPmSwknsLomk1N1QGO~0n1STDjzl~QRhS9Xn3kFAJTUd2CKkvISuhZXveblbimqQL52xKSYA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:36:08,566  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_1_of_4.json.gz?&Expires=1784642454&Signature=xCNc3h1CGYPtQ2ziHwGgqM9vAcO1Ck1D3J1TBzTC4LxHv7pQWLFBoyI7IxGJTPffxi~awWnI5O1TLbxMSAiuYvSlYsK825Umrf4hY6Lo1U3UYNb9WqBzfgThEyaa8WOGqP9L0WncqgHYjBFrxrqgOJhoaWwIlymjmu3-oJ3PTyVAB9tylCXsm8N54TfMfkLpxZINBxXrv9xroktWVBwIuaD9qejz9kVkbnnpt~EuMk~CAG5H2lJSIT8d917tr-uQgZn-jX5H1sqYXOD6Y5SPGe32SJthnceAh3t5j9TIlBd~bsWeCp52hvRyQlcnz-5nXcBcCh0ehng-oBEHP7zW8A__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:36:09,253  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_1_of_3.json.gz?&Expires=1784642454&Signature=dJ9oSh6zwHdxCzsQFtVQF3PmMb4htIaP02LIffI1zTWlm91lUXBD2ZkjCPd~p3w2qQX1WA~SkkPX-tm1xCPopzDmM6Fyd9LP2VpEZqA2KpuY~~jbRyr3FlfrQyVkWL7IRKjslaMj22Pz7VuNpFemLsJ31l5xWbh3YbaiQ8rQ58IEIdxZZNVdD2IGBDCjvBqEBAk2-Rf1FL6y-M8OO9U0dTNs7EawyqH1OoNFSG0EDTCZ6dMrRhTDx7ID8s-5FaG11g1YFeoUaaPp4ZwRFkqGkdO4XEnBdzTZjoFv67Rpol2uMsMSX-I1EAmcdQ~AZAFQIx9jJiSbolaqwN7DN5Zz4g__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:36:14,686  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_1_of_4.json.gz?&Expires=1784642454&Signature=xCNc3h1CGYPtQ2ziHwGgqM9vAcO1Ck1D3J1TBzTC4LxHv7pQWLFBoyI7IxGJTPffxi~awWnI5O1TLbxMSAiuYvSlYsK825Umrf4hY6Lo1U3UYNb9WqBzfgThEyaa8WOGqP9L0WncqgHYjBFrxrqgOJhoaWwIlymjmu3-oJ3PTyVAB9tylCXsm8N54TfMfkLpxZINBxXrv9xroktWVBwIuaD9qejz9kVkbnnpt~EuMk~CAG5H2lJSIT8d917tr-uQgZn-jX5H1sqYXOD6Y5SPGe32SJthnceAh3t5j9TIlBd~bsWeCp52hvRyQlcnz-5nXcBcCh0ehng-oBEHP7zW8A__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:37:17,832  INFO          ✓ 2026-06_271_35B0_in-network-rates_4_of_4.json.gz
+2026-06-22 12:37:39,812  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_280_36B0_in-network-rates.json.gz?&Expires=1784642454&Signature=40ryc2Y3TFMrEWQszTfmMWoiThYMPBMe0JJkXzoH3P3YatowmzCnezwr2-3R4QhO48bLMHSVhskwuVbpHZV-0xPhVryWvBHwHZN12eDIRfSW-b4N4LRQNpfwk784g4rS-PDZ4fvjHtlU08ZdDmUwA4NWHJ7zst7wwCB2jc0rGssHoasoaglV6adK5MPxHnPy7rQJJBMq8aRZyHKfsAGDgm81PgZ5iKDT09dmckm~s7ITxzSX8bdV-ON~DUiGX9~5UW6aYZUZAYv8aDmHgOcL-fk3AfMbsL7hRZIUXgc1lxZXKZqkZWuj05BPajtB4wrjW8FAkw~pjz4HzWVD-d2WwA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:37:39,840  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_3_of_4.json.gz?&Expires=1784642454&Signature=yfxi2m3IR55B~rdrNNwH7Pniamj-C~417yLHJJQRly2~0SVETmOAdiWlsqYd0rgTr-8rTv08UmlzUmeZgVntezHA1n-DrOP7lEXXMuSj2Q6QXo4A1Ec48FFHQZQfpBopmZIOlaQaGDL7c9inZ8-X-0ulRGG3YK03OKU3x7BfOUh4s-a-5aoeGj2qHQjDSsT5sNWzk~XsAnHQLOJz6sUlTkyO6ESNVEWlLGHBWf9lH83AKU-owOFA5cLkCmh4IBUfkEV~RH5hWlIU99rrJ~P5JjTv~kjLwdOaKegfg5psVZGUGXXk6t85tsBp3XVpzUACLIIOS0iUNHRITNxxwD~eEA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:37:39,979  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_1_of_3.json.gz?&Expires=1784642454&Signature=dJ9oSh6zwHdxCzsQFtVQF3PmMb4htIaP02LIffI1zTWlm91lUXBD2ZkjCPd~p3w2qQX1WA~SkkPX-tm1xCPopzDmM6Fyd9LP2VpEZqA2KpuY~~jbRyr3FlfrQyVkWL7IRKjslaMj22Pz7VuNpFemLsJ31l5xWbh3YbaiQ8rQ58IEIdxZZNVdD2IGBDCjvBqEBAk2-Rf1FL6y-M8OO9U0dTNs7EawyqH1OoNFSG0EDTCZ6dMrRhTDx7ID8s-5FaG11g1YFeoUaaPp4ZwRFkqGkdO4XEnBdzTZjoFv67Rpol2uMsMSX-I1EAmcdQ~AZAFQIx9jJiSbolaqwN7DN5Zz4g__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:37:40,092  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_2_of_4.json.gz?&Expires=1784642454&Signature=TZNjl6WALkTxjKbOtzFSOZ-T2bfpVrK~Iuulda2WIUpiQS6~9k2BGV3mDiWNUZ6o1JKNatcjBzHPbPy6iZrqG9C6iMCJthGqmifLIhgbSmJCn7Vrbejyad13LWXsEYEI-72uAw1MrnkUx2o1-XvVdGSZmNe999cgQoOrMQgeMuTjVBOtVRrg0nR74zy5FIwAI6kLv3llhrrkzOOO5YLP7Qw9fNbfVUZEZdxkT8Z4phWCi4plsHzpKghq649DcoK1tMcIeEm2aA2QGbFPmSwknsLomk1N1QGO~0n1STDjzl~QRhS9Xn3kFAJTUd2CKkvISuhZXveblbimqQL52xKSYA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:37:45,844  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_3_of_4.json.gz?&Expires=1784642454&Signature=yfxi2m3IR55B~rdrNNwH7Pniamj-C~417yLHJJQRly2~0SVETmOAdiWlsqYd0rgTr-8rTv08UmlzUmeZgVntezHA1n-DrOP7lEXXMuSj2Q6QXo4A1Ec48FFHQZQfpBopmZIOlaQaGDL7c9inZ8-X-0ulRGG3YK03OKU3x7BfOUh4s-a-5aoeGj2qHQjDSsT5sNWzk~XsAnHQLOJz6sUlTkyO6ESNVEWlLGHBWf9lH83AKU-owOFA5cLkCmh4IBUfkEV~RH5hWlIU99rrJ~P5JjTv~kjLwdOaKegfg5psVZGUGXXk6t85tsBp3XVpzUACLIIOS0iUNHRITNxxwD~eEA__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:37:45,980  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_266_38B0_in-network-rates_1_of_3.json.gz?&Expires=1784642454&Signature=dJ9oSh6zwHdxCzsQFtVQF3PmMb4htIaP02LIffI1zTWlm91lUXBD2ZkjCPd~p3w2qQX1WA~SkkPX-tm1xCPopzDmM6Fyd9LP2VpEZqA2KpuY~~jbRyr3FlfrQyVkWL7IRKjslaMj22Pz7VuNpFemLsJ31l5xWbh3YbaiQ8rQ58IEIdxZZNVdD2IGBDCjvBqEBAk2-Rf1FL6y-M8OO9U0dTNs7EawyqH1OoNFSG0EDTCZ6dMrRhTDx7ID8s-5FaG11g1YFeoUaaPp4ZwRFkqGkdO4XEnBdzTZjoFv67Rpol2uMsMSX-I1EAmcdQ~AZAFQIx9jJiSbolaqwN7DN5Zz4g__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:37:46,094  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_271_35B0_in-network-rates_2_of_4.json.gz?&Expires=1784642454&Signature=TZNjl6WALkTxjKbOtzFSOZ-T2bfpVrK~Iuulda2WIUpiQS6~9k2BGV3mDiWNUZ6o1JKNatcjBzHPbPy6iZrqG9C6iMCJthGqmifLIhgbSmJCn7Vrbejyad13LWXsEYEI-72uAw1MrnkUx2o1-XvVdGSZmNe999cgQoOrMQgeMuTjVBOtVRrg0nR74zy5FIwAI6kLv3llhrrkzOOO5YLP7Qw9fNbfVUZEZdxkT8Z4phWCi4plsHzpKghq649DcoK1tMcIeEm2aA2QGbFPmSwknsLomk1N1QGO~0n1STDjzl~QRhS9Xn3kFAJTUd2CKkvISuhZXveblbimqQL52xKSYA__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:37:46,158  INFO          ✓ 2026-06_301_71A0_in-network-rates_02_of_03.json.gz
+2026-06-22 12:37:47,842  INFO          ✓ 2026-06_301_71A0_in-network-rates_03_of_03.json.gz
+2026-06-22 12:37:48,295  INFO          ✓ 2026-06_301_71A0_in-network-rates_01_of_03.json.gz
+2026-06-22 12:37:50,768  INFO          ✓ 2026-06_290_37B0_in-network-rates.json.gz
+2026-06-22 12:38:08,892  INFO          ✓ 2026-06_302_42B0_in-network-rates.json.gz
+2026-06-22 12:38:09,878  INFO          ✓ 2026-06_320_33B0_in-network-rates_01_of_10.json.gz
+2026-06-22 12:38:17,318  INFO          ✓ 2026-06_320_33B0_in-network-rates_02_of_10.json.gz
+2026-06-22 12:38:21,139  INFO          ✓ 2026-06_320_33B0_in-network-rates_03_of_10.json.gz
+2026-06-22 12:38:27,462  INFO          ✓ 2026-06_320_33B0_in-network-rates_05_of_10.json.gz
+2026-06-22 12:38:30,497  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_280_36B0_in-network-rates.json.gz?&Expires=1784642454&Signature=40ryc2Y3TFMrEWQszTfmMWoiThYMPBMe0JJkXzoH3P3YatowmzCnezwr2-3R4QhO48bLMHSVhskwuVbpHZV-0xPhVryWvBHwHZN12eDIRfSW-b4N4LRQNpfwk784g4rS-PDZ4fvjHtlU08ZdDmUwA4NWHJ7zst7wwCB2jc0rGssHoasoaglV6adK5MPxHnPy7rQJJBMq8aRZyHKfsAGDgm81PgZ5iKDT09dmckm~s7ITxzSX8bdV-ON~DUiGX9~5UW6aYZUZAYv8aDmHgOcL-fk3AfMbsL7hRZIUXgc1lxZXKZqkZWuj05BPajtB4wrjW8FAkw~pjz4HzWVD-d2WwA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:30,625  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1784642454&Signature=xWLOqlnFH4r2805DXuTePNAaZSyCwVduPNKLhQlDvtqLO-r096Za1bbDZR-7qpFmChoSLvmhvsydc4BDdePE0ounc30hi6PtzUXsyHvY3l0hwI2HqyTV1kP1uYUnKXa~D6F2x5Ohq3uyNAFci3O6riMO82mjSTzUYVHeVTUxo599~sCD4gcafGFS5KB4sBXh0abjry170ph~o-L9dgHioExYwp86rk8GP2Rge0w4PNrtCepILPi30WpxqWMZ3GI5EMLhejBI0oFsHc9DMKkqKsuoDVKvaan8PomPjLlf8-eI-1iy-QRQGI3hYBoh4KumKWbjkFngimEAWlL6nZVsxQ__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:30,696  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_320_33B0_in-network-rates_06_of_10.json.gz?&Expires=1784642454&Signature=gUPOZDwM~134VAhbH2sSmcPHxofaUfGVyTI9RHMW4hZNjGtD2AmrqProf3MDu~gARUPCRbDaxZx9jxUluMNml4FNJOO3ASVa6dc777p0oJ53P2QAxxL-SrXXvYvRQ9bDyL54h~6T7JVoIWUxHiUKfXu58uCuFFf1KOmenpugNEdSey8koXK-mwJ7W6nInTYfBRK7RJ6vigjESDPQvF8vED74nJQobd~gsV4tVgvwvYnmXan5dGTD4-nxiRLv~sgyxaO04rBrAjtwl-bOv0TqMoLEOIAUx-qfqmmo5MElD3YF-jdeP7m3bQgZVSeu~OmSLQ3k47IrkdZ86iZ~H7RnDQ__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:30,954  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_320_33B0_in-network-rates_04_of_10.json.gz?&Expires=1784642454&Signature=JX4PWAVwn7XNlM7uTCp09Sro05n5PSW8eOE0sXpMAcrXbJKTB1IkzwdmC4fvE-uFKioezGJaVnsh5laeTWbZjGT-NWHJV9jFr9-M8iw2a2s2vY9trD5DpzqTeeFCUksDtbGCWvb8hNMxVricTWdzrZGop6x-SndWDlcxXFNyh9ak5AVccTlN7vFvdrfI2Ll~F4MIMu2C1htcOeWZfwAIGc9tkLAd5K~2wmqDCyC5XP6zEYEMD3696uSn6vAgVwfhGdUh2Zrw8FqpOz8fxMrpBhlikaaRmwypZkeB4G1~JWwoHmQ8AmxrCzaaHb4PnXlLEuyIwrMpgnngMV3MB6kIRQ__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:35,646  INFO          ✓ 2026-06_320_33B0_in-network-rates_04_of_10.json.gz
+2026-06-22 12:38:38,215  INFO          ✓ 2026-06_320_33B0_in-network-rates_06_of_10.json.gz
+2026-06-22 12:38:43,222  INFO          ✓ 2026-06_320_33B0_in-network-rates_07_of_10.json.gz
+2026-06-22 12:38:47,763  INFO          ✓ 2026-06_320_33B0_in-network-rates_08_of_10.json.gz
+2026-06-22 12:38:50,482  INFO          ✓ 2026-06_320_33B0_in-network-rates_09_of_10.json.gz
+2026-06-22 12:38:50,549  INFO          ✓ 2026-06_320_33B0_in-network-rates_10_of_10.json.gz
+2026-06-22 12:38:50,873  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1784642454&Signature=xWLOqlnFH4r2805DXuTePNAaZSyCwVduPNKLhQlDvtqLO-r096Za1bbDZR-7qpFmChoSLvmhvsydc4BDdePE0ounc30hi6PtzUXsyHvY3l0hwI2HqyTV1kP1uYUnKXa~D6F2x5Ohq3uyNAFci3O6riMO82mjSTzUYVHeVTUxo599~sCD4gcafGFS5KB4sBXh0abjry170ph~o-L9dgHioExYwp86rk8GP2Rge0w4PNrtCepILPi30WpxqWMZ3GI5EMLhejBI0oFsHc9DMKkqKsuoDVKvaan8PomPjLlf8-eI-1iy-QRQGI3hYBoh4KumKWbjkFngimEAWlL6nZVsxQ__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:51,175  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_280_36B0_in-network-rates.json.gz?&Expires=1784642454&Signature=40ryc2Y3TFMrEWQszTfmMWoiThYMPBMe0JJkXzoH3P3YatowmzCnezwr2-3R4QhO48bLMHSVhskwuVbpHZV-0xPhVryWvBHwHZN12eDIRfSW-b4N4LRQNpfwk784g4rS-PDZ4fvjHtlU08ZdDmUwA4NWHJ7zst7wwCB2jc0rGssHoasoaglV6adK5MPxHnPy7rQJJBMq8aRZyHKfsAGDgm81PgZ5iKDT09dmckm~s7ITxzSX8bdV-ON~DUiGX9~5UW6aYZUZAYv8aDmHgOcL-fk3AfMbsL7hRZIUXgc1lxZXKZqkZWuj05BPajtB4wrjW8FAkw~pjz4HzWVD-d2WwA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:52,363  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_340_46B0_in-network-rates.json.gz?&Expires=1784642454&Signature=HOTtO1x1vUOqSKDq-rcfwUXVWZXCEG5KI~0Vi8LhUwtXH2CVNfhgM5sbDWfiNgOtFXHnIOWb-wsMQN1fJbiazaAOUS6-FLDxHlmeBmvS5gTB4UV6doFIZ0s3401glMHQIyyHSlOgDS9iDnfo-P7Ja8OkxCA-1DMoEjK8fhq5OuZG~0fePfgqtKIGBRDoqwk6qKtPMHMdt2fBYg~ohAO8mYxcRIPT1vQUEwwIY74jCXMM2V2zUCpaEasdhtuyl95SJ2-0tJAfocUhwGoRyeqBWNNDErJv~5rCdhpq4U2TcVEbHjdCikxHtLxRBAc~ZFX5pRDpAG1nnYObSt3mvjB5hg__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:52,407  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_361_50I0_in-network-rates.json.gz?&Expires=1784642454&Signature=r~9-VHCEHoc8ls3ZjcQ1uvPj7RphtVabyoi4xGt8LMG9SVrR3eIJoWD57K566WvNhNaZi3RCdVGibHJarMAPoC4E-cfsYtDE4nLRCGcE7yODqPMxL1F2HaSjX~XCfNc0XRMkorFINKhdtudgQV4nbEd0MUboVJ1yP-eN7mY7vowzN2vIRAtJK-EHzukuE7YgJEhF-FKYmBLYtg8SCxLdczE3VXk01VMcyGvstLjsKbkIuqzth3pm4QhIqlhhC-KHYXFtUyrNB6-NRa2LveuO1QoNQupuiZ39lfiMJXOd59qb0Gbp~iZ2ji-EfL9t7FzfSoBdbeHaVmK12DmmiXMGUA__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:38:57,177  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_280_36B0_in-network-rates.json.gz?&Expires=1784642454&Signature=40ryc2Y3TFMrEWQszTfmMWoiThYMPBMe0JJkXzoH3P3YatowmzCnezwr2-3R4QhO48bLMHSVhskwuVbpHZV-0xPhVryWvBHwHZN12eDIRfSW-b4N4LRQNpfwk784g4rS-PDZ4fvjHtlU08ZdDmUwA4NWHJ7zst7wwCB2jc0rGssHoasoaglV6adK5MPxHnPy7rQJJBMq8aRZyHKfsAGDgm81PgZ5iKDT09dmckm~s7ITxzSX8bdV-ON~DUiGX9~5UW6aYZUZAYv8aDmHgOcL-fk3AfMbsL7hRZIUXgc1lxZXKZqkZWuj05BPajtB4wrjW8FAkw~pjz4HzWVD-d2WwA__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:38:57,598  INFO          ✓ 2026-06_361_50I0_in-network-rates.json.gz
+2026-06-22 12:38:59,273  INFO          ✓ 2026-06_362_52S0_in-network-rates_01_of_02.json.gz
+2026-06-22 12:38:59,556  INFO          ✓ 2026-06_362_52S0_in-network-rates_02_of_02.json.gz
+2026-06-22 12:39:00,190  WARNING       Attempt 3/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1784642454&Signature=xWLOqlnFH4r2805DXuTePNAaZSyCwVduPNKLhQlDvtqLO-r096Za1bbDZR-7qpFmChoSLvmhvsydc4BDdePE0ounc30hi6PtzUXsyHvY3l0hwI2HqyTV1kP1uYUnKXa~D6F2x5Ohq3uyNAFci3O6riMO82mjSTzUYVHeVTUxo599~sCD4gcafGFS5KB4sBXh0abjry170ph~o-L9dgHioExYwp86rk8GP2Rge0w4PNrtCepILPi30WpxqWMZ3GI5EMLhejBI0oFsHc9DMKkqKsuoDVKvaan8PomPjLlf8-eI-1iy-QRQGI3hYBoh4KumKWbjkFngimEAWlL6nZVsxQ__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:39:00,359  WARNING       Attempt 2/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_340_46B0_in-network-rates.json.gz?&Expires=1784642454&Signature=HOTtO1x1vUOqSKDq-rcfwUXVWZXCEG5KI~0Vi8LhUwtXH2CVNfhgM5sbDWfiNgOtFXHnIOWb-wsMQN1fJbiazaAOUS6-FLDxHlmeBmvS5gTB4UV6doFIZ0s3401glMHQIyyHSlOgDS9iDnfo-P7Ja8OkxCA-1DMoEjK8fhq5OuZG~0fePfgqtKIGBRDoqwk6qKtPMHMdt2fBYg~ohAO8mYxcRIPT1vQUEwwIY74jCXMM2V2zUCpaEasdhtuyl95SJ2-0tJAfocUhwGoRyeqBWNNDErJv~5rCdhpq4U2TcVEbHjdCikxHtLxRBAc~ZFX5pRDpAG1nnYObSt3mvjB5hg__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
+2026-06-22 12:39:00,440  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_378_49A0_in-network-rates_01_of_03.json.gz?&Expires=1784642454&Signature=bFqeh1-OZu9bhl5ESbMGuSzx9GhXB-zUFgbExMhGuIilwlwR1QK2GVE2xdVTqqGG-qLbyw-CbvDnZIXF99aArdrFkKbtsEwXOu3OC5qG4dVw6n4I4eS1HmybHbxFOI869sVYx-VE6mFOyjhc4mkQf0GRQCTIzblTqAH7AreJ49j0Adu9Lvn7AfxM-3C7VzPMFY043yBoKwV15FytXX8dyhyVyigfawGVHwfSiYILjuf3EbM6Tqdnl6Eal2TZrlsU3TpHOXGkFfQu11kMHHZocKgw2jeGKgee43hbN01JvqWTzktzO6wEovMJTy-nEFoH4q7HfQDJRd6ml2aZS5Uvmg__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device: 'Georgia\\Georgia Hispanic Chamber Of Commerce\\2026-06_378_49A0_in-network-rates_01_of_03.json.gz.tmp'
+2026-06-22 12:39:03,752  INFO          ✓ 2026-06_370_55A0_in-network-rates.json.gz
+2026-06-22 12:39:03,796  INFO          ✓ 2026-06_378_49A0_in-network-rates_02_of_03.json.gz
+2026-06-22 12:39:05,517  INFO          ✓ 2026-06_378_49A0_in-network-rates_01_of_03.json.gz
+2026-06-22 12:39:06,060  INFO          ✓ 2026-06_378_49A0_in-network-rates_03_of_03.json.gz
+2026-06-22 12:39:06,193  ERROR         ✗ FAILED after 3 attempts: https://anthembcbsga.mrf.bcbs.com/2026-06_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1784642454&Signature=xWLOqlnFH4r2805DXuTePNAaZSyCwVduPNKLhQlDvtqLO-r096Za1bbDZR-7qpFmChoSLvmhvsydc4BDdePE0ounc30hi6PtzUXsyHvY3l0hwI2HqyTV1kP1uYUnKXa~D6F2x5Ohq3uyNAFci3O6riMO82mjSTzUYVHeVTUxo599~sCD4gcafGFS5KB4sBXh0abjry170ph~o-L9dgHioExYwp86rk8GP2Rge0w4PNrtCepILPi30WpxqWMZ3GI5EMLhejBI0oFsHc9DMKkqKsuoDVKvaan8PomPjLlf8-eI-1iy-QRQGI3hYBoh4KumKWbjkFngimEAWlL6nZVsxQ__&Key-Pair-Id=K27TQMT39R1C8A
+2026-06-22 12:39:08,108  WARNING       Attempt 1/3 failed for https://anthembcbsga.mrf.bcbs.com/2026-06_410_60B0_in-network-rates.json.gz?&Expires=1784642454&Signature=ZH7ssw9Znkls3s5hrvixJSJBaZ0G5C~xSTGhviyMdjqpAVhg3aHH1Ob6VNUaSpphJyYp2G7Sh7S-BEj-kpcsS7UniyYNeMN6jDDyvIWRCAnAyB~un5EErbnUJuMtsOb8ERnJJfo4X5uiHZK4qBp4eIZ37ZlTn7zQyi-ERmsM3SEF5LRnnjtj2dCTNX7z9RrNO85S2gfpuvBIBgoa5P0Kf9o3FJBm5vPvfc3j5-JuMQQc~DPSWbbv9cxCaC8VHDUa8sv-3yJUPdgFqaQuFmeeM-x2tcwb2DTtqCSevN~d0AdzR~zBdWucKkIbY5GAuh72eDLTlzw~Xy10oxIEaXNvvg__&Key-Pair-Id=K27TQMT39R1C8A: [Errno 28] No space left on device
